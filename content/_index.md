@@ -2,8 +2,8 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-title: Maurits                    van der Veen
-subtitle: Political scientist & computational socials scientist at William & Mary
+title: Maurits van der Veen
+subtitle: Political scientist & computational social scientist at William & Mary
 description: |
   Welcome! 
   
@@ -19,7 +19,7 @@ text_align_left: true
 image_left: false
 images:
 - img/OsloMarathon_2010_2ndpackX.jpg
-show_action_link: true
+show_action_link: false
 show_social_links: true
 type: home
 ---
