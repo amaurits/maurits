@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-title: Maurits&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;van der Veen
+title: Maurits<code>&nbsp;</code>van der Veen
 subtitle: Political scientist & computational socials scientist at William & Mary
 description: |
   Welcome! 
