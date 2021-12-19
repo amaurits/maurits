@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Maurits van der Veen"
   orgLocal = ""
   description = "Maurits van der Veen's personal scholar website."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/stairlogo_icon.ico"
+  logo = "/img/stairlogo.png"
   mainSections = ["Research", "Publication", "Course", "Blog"]
   navallcaps = false
   # show/hide social icons in site header & footer
@@ -137,20 +137,25 @@ enableEmoji = true
     url = "/Publication/"
     weight = 3
   [[menu.header]]
+    name = "STAIR Lab"
+    title = "Student research lab"
+    url = "/Research/"
+    weight = 4
+  [[menu.header]]
     name = "Courses"
     title = "Courses taught"
     url = "/Course/"
-    weight = 4
+    weight = 5
   [[menu.header]]
     name = "C.V."
     title = "Curriculum Vitae"
     url = "/CV/"
-    weight = 5
+    weight = 6
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/Blog/"
-    weight = 6
+    weight = 7
     
   # Configure footer  
   [[menu.footer]]
