@@ -137,25 +137,30 @@ enableEmoji = true
     url = "/Publication/"
     weight = 3
   [[menu.header]]
-    name = "STAIR Lab"
-    title = "Student research lab"
-    url = "/Research/"
+    name = "Lab"
+    title = "STAIR Lab"
+    url = "/Lab/"
     weight = 4
+  [[menu.header]]
+    name = "Software"
+    title = "Computational Text Analysis Software"
+    url = "/Software/"
+    weight = 5
   [[menu.header]]
     name = "Courses"
     title = "Courses taught"
     url = "/Course/"
-    weight = 5
+    weight = 6
   [[menu.header]]
     name = "C.V."
     title = "Curriculum Vitae"
     url = "/CV/"
-    weight = 6
+    weight = 7
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/Blog/"
-    weight = 7
+    weight = 8
     
   # Configure footer  
   [[menu.footer]]
