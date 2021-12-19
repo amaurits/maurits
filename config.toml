@@ -29,7 +29,7 @@ enableEmoji = true
     
 [params]
   orgName = "Maurits van der Veen"
-  orgLocal = "Williamsburg, VA."
+  orgLocal = ""
   description = "Maurits van der Veen's personal scholar website."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
@@ -122,9 +122,9 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
-    title = "About me"
-    url = "/About/"
+    name = "Home"
+    title = "Front page of website"
+    url = "/"
     weight = 1
   [[menu.header]]
     name = "Research"
