@@ -21,11 +21,11 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: A Sidebar for My Projects
-description: My overarching research interest is the development and impact of beliefs about "others", be they domestic minority groups, (recent) immigrants or refugees, or foreign populations. I'm particularly interested in international connections: How do beliefs shape policies with respect to foreign others (whether at home or abroad), and how are beliefs affected by ideas imported or borrowed from foreign contexts?
+description: "My overarching research interest is the development and impact of beliefs about "others", be they domestic minority groups, (recent) immigrants or refugees, or foreign populations. I'm particularly interested in international connections: How do beliefs shape policies with respect to foreign others (whether at home or abroad), and how are beliefs affected by ideas imported or borrowed from foreign contexts?
 
 My first book, _Ideas, Interests, and Foreign Aid_ (Cambridge, 2011) identified a wide range of different ideas about the purpose of foreign aid, and showed how these shape the size, distribution, and contents of national foreign aid programs. My second book, with Erik Bleich, _Covering Muslims: American Newspapers in Comparative Perspective_ (Oxford, 2022) examines the tone and content of the media's coverage of Muslims and Islam, showing that it has long been extraordinarily negative compared to the coverage of other ethnic, racial and religious groups, and that there are strong similarities across countries in the Global North in terms of how Muslims and Islam are discussed.
 
-My current research is broadly focused on three substantive topics, with a fourth methodological focus on the systematic analysis of emotions and moral judgments in texts, especially across multiple languages.
+My current research is broadly focused on three substantive topics, with a fourth methodological focus on the systematic analysis of emotions and moral judgments in texts, especially across multiple languages."
 title: Research
 
 ---
