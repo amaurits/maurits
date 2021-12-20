@@ -13,7 +13,7 @@ description: |
   
   Current projects include measuring emotions and moral judgments in political debates about migrants, analyzing the spread of cultural ideas across borders, and studying the presence and depth of international solidarity within the European Union.
   
-  I am also a serious runner, and used to race marathons regularly.
+  I am also a serious runner, and used to race marathons regularly (that's me on the left).
 
 text_align_left: true
 image_left: false

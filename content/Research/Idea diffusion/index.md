@@ -4,9 +4,16 @@ categories:
 - Research project
 - ideas
 - framing
-date: "2021-12-20"
+date: "2021-12-14"
 draft: false
-excerpt: "Diffusion of ideas across borders, especially culture war concepts (more here).\n\n
+excerpt: "When Black Lives Matter protests exploded in the summer of 2020, they did so on a global
+scale. Protests around the world invariably had a dual goal: expression solidarity with the American
+BLM movement, and linking that movement's goals to related domestic concerns. I am interested in 
+the international spread of these kinds of political ideas: How are ideas that originate in one
+context mapped to another situation? How do language barriers affect the diffusion of ideas? And
+how have social media accelerated and changed the way in which ideas spread?\n\n
+
+(note: link currently leads to unrelated sample page)
 _<sub>Photo: Elekes Andor (Wikimedia Commons, 83482595, CC BY-SA 4.0)</sub>_" 
 layout: single
 subtitle: The spread of key concepts and ideas from country of origins to others..

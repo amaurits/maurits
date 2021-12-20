@@ -4,9 +4,16 @@ categories:
 - Project
 - Migration
 - Framing
-date: "2021-12-20"
+date: "2021-12-12"
 draft: false
-excerpt: "How do people in different countries think about refugees, migrants, and victims of international human trafficking?\n\n
+excerpt: "Migration is a thorny political issue almost everywhere. How are public opinion and policy
+choices affected by the way people think about migrants? My research looks at whether migrants are
+thought of differently from refugees or victims of cross-border human trafficking; how the nation
+of origin of migrants affects attitudes, and how competing perceptions of migrants affect both
+national policy and international diplomacy (especially within Europe) regarding migrants.
+
+(note: link currently leads to unrelated sample page)
+\n\n
 _<sub>Photo: Mstyslav Chernov (Wikimedia Commons, 43060174, CC BY-SA 4.0)</sub>_" 
 featured: true
 layout: single-sidebar
