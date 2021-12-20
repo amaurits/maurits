@@ -1,20 +1,17 @@
 ---
-author: Eric Anderson
+author: Maurits van der Veen
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-03"
+- Research project
+- ideas
+- framing
+date: "2021-12-20"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic
-  (or Functional) CSS system like Tachyons. It’s a design system that provides very
-  small (which means fast) CSS modules that you can use in your HTML.
+excerpt: Diffusion of ideas across borders (more here).
 layout: single
-subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that
-  always moves faster than light.
+subtitle: The spread of key concepts and ideas from country of origins to others..
 tags:
 - hugo-site
-title: Tachyons for Style
+title: Idea diffusion
 ---
 
 ![Tachyons Logo Script](tachyons-logo-script.png)
