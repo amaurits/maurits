@@ -1,9 +1,10 @@
 ---
-author: Alison Hill
+author: Maurits van der Veen
 categories:
 - workshop
-date: "2021-01-12"
-date_end: "2021-01-13"
+pubtype: "Books"
+date: "2021-12-14"
+date_end: "2021-12-14"
 draft: false
 event: rstudio::global(2021)
 event_url: https://global.rstudio.com
@@ -26,4 +27,4 @@ subtitle: Testing
 title: A campfire
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+Main text of book 

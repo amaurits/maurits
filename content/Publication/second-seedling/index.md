@@ -2,6 +2,7 @@
 author: Alison Hill
 categories:
 - meetup
+pubtype: "Books"
 date: "2021-01-01T14:15:59-06:00"
 date_end: "2021-01-01T14:45:59-06:00"
 draft: false
