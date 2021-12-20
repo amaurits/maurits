@@ -2,7 +2,7 @@
 description: License for blogposts
 draft: false
 layout: standard
-show_title_as_headline: false
+show_title_as_headline: true
 title: License
 ---
 
