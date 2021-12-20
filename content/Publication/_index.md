@@ -2,7 +2,7 @@
 author: Maurits van der Veen
 cascade:
   author: Maurits van der Veen
-  show_author_byline: false
+  show_author_byline: true
   show_comments: false
   show_post_date: true
   show_post_time: true
@@ -13,7 +13,7 @@ cascade:
 description: |
   Below is a selection of my publications.
 layout: list
-show_author_byline: true
+show_author_byline: false
 show_button_links: true
 show_post_date: true
 show_post_thumbnail: true
