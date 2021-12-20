@@ -1,5 +1,5 @@
 ---
-description: "Click here for a copy of my CV"
+excerpt: "Click here for a copy of my CV"
 draft: false
 layout: single
 links:
