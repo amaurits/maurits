@@ -134,7 +134,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Publications"
     title = "Publications"
-    url = "/talk/"
+    url = "/Publication/"
     weight = 3
   [[menu.header]]
     name = "Lab"
