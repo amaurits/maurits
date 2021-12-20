@@ -21,7 +21,7 @@ links:
 - icon: book-reader
   icon_pack: fa
   name: Amazon
-  url: amzn.to/3yvt3By
+  url: https://amzn.to/3yvt3By
 location: New York, NY
 show_post_time: false
 subtitle: American Newspapers in Comparative Perspective
