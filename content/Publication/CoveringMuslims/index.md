@@ -1,7 +1,10 @@
 ---
 author: Maurits van der Veen
 categories:
-- workshop
+- foreign aid
+- framing
+- foreign policy
+- legislative debates
 pubtype: "Books"
 date: "2021-12-14"
 date_end: "2021-12-14"

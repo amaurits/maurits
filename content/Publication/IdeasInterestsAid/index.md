@@ -1,7 +1,9 @@
 ---
 author: Maurits van der Veen
 categories:
-- workshop
+- religious minorities
+- sentiment analysis
+- media coverage
 pubtype: "Books"
 date: "2011-12-14"
 date_end: "2011-12-14"
