@@ -134,7 +134,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Publications"
     title = "Publications"
-    url = "/Publication/"
+    url = "/talk/"
     weight = 3
   [[menu.header]]
     name = "Lab"
@@ -149,7 +149,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Courses"
     title = "Courses taught"
-    url = "/Course/"
+    url = "/collection/"
     weight = 6
   [[menu.header]]
     name = "C.V."
@@ -159,7 +159,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Blog"
     title = "Blog"
-    url = "/Blog/"
+    url = "/blog/"
     weight = 8
     
   # Configure footer  

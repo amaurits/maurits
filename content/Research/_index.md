@@ -1,7 +1,7 @@
 ---
 author: Maurits van der Veen
 cascade:
-  show_author_byline: false
+  show_author_byline: true
   show_comments: false
   show_post_date: true
   sidebar:
