@@ -127,7 +127,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Lab"
     title = "STAIR Lab"
-    url = "/Lab/"
+    url = "/lab/"
     weight = 4
   [[menu.header]]
     name = "Software"
