@@ -6,8 +6,8 @@ categories:
 - foreign policy
 - legislative debates
 pubtype: "Books"
-date: "2011-12-14"
-date_end: "2011-12-14"
+date: "2011-10-01"
+date_end: "2011-10-01"
 draft: false
 event: Cambridge University Press
 event_url: https://www.cambridge.org/us/academic/subjects/politics-international-relations/international-relations-and-international-organisations/ideas-interests-and-foreign-aid?format=PB
