@@ -16,12 +16,12 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
+  name: "publisher website""
+  url: https://global.oup.com/academic/product/covering-muslims-9780197611722
+- icon: book-reader
   icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+  name: Amazon
+  url: amzn.to/3yvt3By
 location: New York, NY
 show_post_time: false
 subtitle: American Newspapers in Comparative Perspective
