@@ -6,7 +6,8 @@ categories:
 - Framing
 date: "2021-12-20"
 draft: false
-excerpt: How do people in different countries think about refugees, migrants, and victims of international human trafficking?
+excerpt: "How do people in different countries think about refugees, migrants, and victims of international human trafficking?\n\n
+_<sub>Photo: Mstyslav Chernov (Wikimedia Commons, 43060174, CC BY-SA 4.0)</sub>_" 
 featured: true
 layout: single-sidebar
 links:
