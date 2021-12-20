@@ -16,7 +16,7 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: "publisher website""
+  name: "publisher website"
   url: https://global.oup.com/academic/product/covering-muslims-9780197611722
 - icon: book-reader
   icon_pack: fab
