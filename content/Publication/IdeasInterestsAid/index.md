@@ -17,12 +17,12 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+  name: "publisher website"
+  url: https://www.cambridge.org/us/academic/subjects/politics-international-relations/international-relations-and-international-organisations/ideas-interests-and-foreign-aid?format=PB
+- icon: book-reader
+  icon_pack: fa
+  name: Amazon
+  url: https://www.amazon.com/Interests-Foreign-Cambridge-International-Relations-dp-052126409X/dp/052126409X/ref=mt_other
 location: Cambridge, UK
 show_post_time: false
 subtitle: Cambridge Studies in International Relations
