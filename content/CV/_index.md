@@ -1,7 +1,7 @@
 ---
 description: "Click here for a copy of my CV"
 draft: false
-layout: standard
+layout: single
 links:
 - icon: cv
   icon_pack: ai
