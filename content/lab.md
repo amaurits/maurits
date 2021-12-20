@@ -1,13 +1,13 @@
 ---
-description: License for blogposts
+description: STAIR Lab link page
 draft: false
 layout: standard
 show_title_as_headline: true
-title: License
+title: STAIR Lab
 ---
 
-My [blog posts](/post/) are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+The STAIR Lab is a computational social science lab conducting collaborative research with undergraduate students at William & Mary. We use natural language processing (NLP) tools to study how politicians and the media (both traditional and social media) think and talk about international issues, with a particular focus on international humanitarian questions. Learn more by clicking on the link below.
 
 <center>
-<i class="fab fa-creative-commons fa-2x"></i><i class="fab fa-creative-commons-by fa-2x"></i><i class="fab fa-creative-commons-sa fa-2x"></i>
+[![STAIR Lab](img/stairlogo.png)](https://stair.wm.edu)
 </center>
