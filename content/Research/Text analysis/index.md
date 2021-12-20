@@ -20,7 +20,7 @@ links:
 subtitle: Python tools for natural language processing
 tags:
 - hugo-site
-title: Systematic text analysis: emotions and judgments
+title: Systematic text analysis - emotions and judgments
 ---
 
 ![Formspree Logo](formspree-logo.png)
