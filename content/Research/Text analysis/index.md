@@ -1,14 +1,12 @@
 ---
-author: Eric Anderson
+author: Maurits van der Veen
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-01"
+- Code development
+- python
+- NLP
+date: "2021-12-20"
 draft: false
-excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
-  integration. All you need to activate the form is a valid recipient email address
-  saved in the form front matter.
+excerpt: Is it possible to reliably identify emotions and moral judgments in texts?
 layout: single
 links:
 - icon: door-open
@@ -19,10 +17,10 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
-subtitle: An R Package
+subtitle: Python tools for natural language processing
 tags:
 - hugo-site
-title: Bakeoff
+title: Systematic text analysis: emotions and judgments
 ---
 
 ![Formspree Logo](formspree-logo.png)

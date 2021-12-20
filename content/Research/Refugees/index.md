@@ -1,14 +1,12 @@
 ---
-author: Eric Anderson
+author: Maurits van der Veen
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-02"
+- Project
+- Migration
+- Framing
+date: "2021-12-20"
 draft: false
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
+excerpt: How do people in different countries think about refugees, migrants, and victims of international human trafficking?
 featured: true
 layout: single-sidebar
 links:
@@ -27,7 +25,7 @@ links:
 subtitle: ""
 tags:
 - hugo-site
-title: Palmer Penguins
+title: Framing migrants and refugees
 ---
 
 ### “Grid is the very first CSS module created specifically to solve the layout problems we've all been hacking our way around for as long as we've been making websites.”
