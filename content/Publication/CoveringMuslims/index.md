@@ -1,5 +1,5 @@
 ---
-author: Maurits van der Veen
+author: Erik Bleich & A. Maurits van der Veen
 categories:
 - religious minorities
 - sentiment analysis

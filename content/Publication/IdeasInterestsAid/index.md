@@ -1,5 +1,5 @@
 ---
-author: Maurits van der Veen
+author: A. Maurits van der Veen
 categories:
 - foreign aid
 - framing
