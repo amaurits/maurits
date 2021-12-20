@@ -13,7 +13,6 @@ the international spread of these kinds of political ideas: How are ideas that o
 context mapped to another situation? How do language barriers affect the diffusion of ideas? And
 how have social media accelerated and changed the way in which ideas spread?\n\n
 
-(note: link currently leads to unrelated sample page)
 _<sub>Photo: Elekes Andor (Wikimedia Commons, 83482595, CC BY-SA 4.0)</sub>_" 
 layout: single
 subtitle: The spread of key concepts and ideas from country of origins to others..
