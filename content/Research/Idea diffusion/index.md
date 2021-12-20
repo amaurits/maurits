@@ -7,7 +7,7 @@ categories:
 date: "2021-12-20"
 draft: false
 excerpt: "Diffusion of ideas across borders, especially culture war concepts (more here).\n\n
-_Photo credit: Elekes Andor - (commons.wikimedia.org, 83482595, CC BY-SA 4.0)_" 
+_<sub>Photo credit: Elekes Andor\n(commons.wikimedia.org, 83482595, CC BY-SA 4.0)</sub>_" 
 layout: single
 subtitle: The spread of key concepts and ideas from country of origins to others..
 tags:
