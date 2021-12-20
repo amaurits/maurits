@@ -7,7 +7,7 @@ subtitle: Political scientist & computational social scientist at William & Mary
 description: |
   Welcome! 
   
-  I am an Associate Professor of Government at William & Mary in Williamsburg, VA. Prior to coming to William & Mary in 2010, I taught at the University of Georgia and the University of Pennsylvania. 
+  I am an Associate Professor of [Government](https://www.wm.edu/as/government/index.php) at [William & Mary](https://www.wm.edu/) in Williamsburg, VA. Prior to coming to William & Mary in 2010, I taught at the [University of Georgia](https://spia.uga.edu/departments-centers/department-of-international-affairs/) and the [University of Pennsylvania](https://www.polisci.upenn.edu/). 
   
   My research investigates the origins and impact of perceptions and beliefs in international relations, with a  focus on beliefs about "others": members of different minorities, (im)migrants, foreigners, etc. As a computational social scientist, I am particularly interested in measuring different aspects of beliefs and attitudes in texts, ranging from legislative debates to newspapers to social media. 
   
