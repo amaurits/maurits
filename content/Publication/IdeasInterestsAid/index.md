@@ -3,13 +3,12 @@ author: Maurits van der Veen
 categories:
 - workshop
 pubtype: "Books"
-date: "2021-12-14"
-date_end: "2021-12-14"
+date: "2011-12-14"
+date_end: "2011-12-14"
 draft: false
 event: rstudio::global(2021)
 event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-  GitHub, and Netlify.
+excerpt: Blurb for book
 featured: true
 layout: single
 links:
@@ -23,8 +22,8 @@ links:
   url: https://github.com/apreshill/bakeoff
 location: Sydney, Australia
 show_post_time: false
-subtitle: Testing
-title: A campfire
+subtitle: Cambridge Studies in International Relations
+title: Ideas, Interests and Foreign Aid
 ---
 
 Main text of book 
