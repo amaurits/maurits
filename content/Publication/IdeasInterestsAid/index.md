@@ -19,8 +19,8 @@ links:
   icon_pack: fas
   name: "publisher website"
   url: https://www.cambridge.org/us/academic/subjects/politics-international-relations/international-relations-and-international-organisations/ideas-interests-and-foreign-aid?format=PB
-- icon: book-reader
-  icon_pack: fa
+- icon: amazon
+  icon_pack: fab
   name: Amazon
   url: https://www.amazon.com/Interests-Foreign-Cambridge-International-Relations-dp-052126409X/dp/052126409X/ref=mt_other
 location: Cambridge, UK
