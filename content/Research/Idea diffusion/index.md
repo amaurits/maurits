@@ -6,7 +6,7 @@ categories:
 - framing
 date: "2021-12-20"
 draft: false
-excerpt: Diffusion of ideas across borders (more here).
+excerpt: Diffusion of ideas across borders, especially culture war concepts (more here).
 layout: single
 subtitle: The spread of key concepts and ideas from country of origins to others..
 tags:
