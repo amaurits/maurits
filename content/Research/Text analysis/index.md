@@ -8,7 +8,7 @@ date: "2021-12-10"
 draft: false
 excerpt: "All of the above research projects require an ability to analyze texts: media (both traditional and social), legislative and political debates, party platforms, etc. In particular, I am interested in improving our ability to extract information about the ways an issue is framed from texts, including the emotional and/or moral dimensions of those frames. I develop software tools to do so, with a particular focus on the ability to extract the same kinds of information across a number of different languages, in a way that makes it directly comparable.\n\n
 
-_<sub>Illustration: Plutchik's wheel of emotions</sub>_" "
+_<sub>Illustration: Plutchik's wheel of emotions</sub>_"
 layout: single
 links:
 - icon: door-open
