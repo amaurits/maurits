@@ -7,7 +7,7 @@ categories:
 date: "2021-12-14"
 draft: false
 excerpt: "When Black Lives Matter protests exploded in the summer of 2020, they did so on a global
-scale. Protests around the world invariably had a dual goal: expression solidarity with the American
+scale. Protests around the world invariably had a dual goal: expressing solidarity with the American
 BLM movement, and linking that movement's goals to related domestic concerns. I am interested in 
 the international spread of these kinds of political ideas: How are ideas that originate in one
 context mapped to another situation? How do language barriers affect the diffusion of ideas? And
