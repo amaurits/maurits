@@ -1,12 +1,7 @@
 ---
-description: Click here for a copy of my CV
+description: Click [here](/files/CV.pdf) for a copy of my CV
 draft: false
 layout: standard
-links:
-- icon: cv
-  icon_pack: ai
-  name: "Dec. 2021"
-  url: /files/CV.pdf
 show_title_as_headline: true
 title: Curriculum Vitae
 ---
