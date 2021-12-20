@@ -1,6 +1,6 @@
 ---
 draft: false
-layout: standard
+layout: single
 links:
 - icon: cv
   icon_pack: ai
