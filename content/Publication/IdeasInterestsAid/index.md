@@ -1,9 +1,10 @@
 ---
 author: Maurits van der Veen
 categories:
-- religious minorities
-- sentiment analysis
-- media coverage
+- foreign aid
+- framing
+- foreign policy
+- legislative debates
 pubtype: "Books"
 date: "2011-12-14"
 date_end: "2011-12-14"

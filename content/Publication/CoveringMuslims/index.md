@@ -1,10 +1,9 @@
 ---
 author: Maurits van der Veen
 categories:
-- foreign aid
-- framing
-- foreign policy
-- legislative debates
+- religious minorities
+- sentiment analysis
+- media coverage
 pubtype: "Books"
 date: "2021-12-14"
 date_end: "2021-12-14"
