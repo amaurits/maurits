@@ -19,7 +19,7 @@ links:
   name: "publisher website"
   url: https://global.oup.com/academic/product/covering-muslims-9780197611722
 - icon: book-reader
-  icon_pack: fab
+  icon_pack: fa
   name: Amazon
   url: amzn.to/3yvt3By
 location: New York, NY
