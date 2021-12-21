@@ -17,8 +17,8 @@ show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: Maurits van der Veen
-  description: "All of these packages are written in python. They come with Jupyter notebooks that serve as examples/tutorials for how to use the code."\n\n
-  <sub>_Photo: Calamity Meg, https://flickr.com/photos/disowned/1158260369 (BY-CC-ND)_</sub>
+  description: "All of these packages are written in python. They come with Jupyter notebooks that serve as examples/tutorials for how to use the code.\n\n
+  <sub>_Photo: Calamity Meg, https://flickr.com/photos/disowned/1158260369 (BY-CC-ND)_</sub>"
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
