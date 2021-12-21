@@ -7,7 +7,7 @@ date: "2021-12-10"
 draft: false
 excerpt: "**High-quality dictionary-based sentiment analysis**\n\n
 
-Sentiment analysis is super-widely used, but often poorly.
+Sentiment analysis is super-widely used, but often poorly."
 layout: single
 subtitle: This is the subtitle text on the page describing it in more detail
 title: MultiLexScaled - high-quality dictionary-based sentiment analysis
