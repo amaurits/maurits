@@ -1,12 +1,13 @@
 ---
-author: Alison Hill
+author: Maurits van der Veen
 cascade:
-  author: Alison Hill
+  author: Maurits van der Veen
   categories:
-  - Theme Features
-  - R
+  - website design
+  - hugo
+  - markdown
   layout: single-series
-  series: A Spoonful of Hugo
+  series: Website development
   show_author_byline: true
   show_post_date: true
   sidebar:
@@ -18,24 +19,22 @@ cascade:
   tags:
   - hugo-site
 description: |
-  A forking fun new feature for series.
+  I don't think this text shows anywhere
 layout: list-sidebar
 show_author_byline: true
 show_post_date: true
 show_post_thumbnail: false
 sidebar:
-  author: Alison Hill
+  author: Maurits van der Veen
   description: |
-    A forking fun new feature for series.
-    Even this sidebar offers a ton of customizations!
+    A series of posts about the development of this website.
 
-    Check out the _index.md file in the /blog/spoonful-series
-    folder to edit this content.
+    Written for my own reference, and to offer others some tips and pointers.
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: A Spoonful of Hugo
-title: A Spoonful of Hugo
+  title: Website development
+title: Website development
 ---
 
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**
