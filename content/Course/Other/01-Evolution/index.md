@@ -13,8 +13,8 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
-subtitle: Put your best foot forward, first.
-title: A GitHub profile
+subtitle: The diffusion and impact of the theory of evolution across society
+title: Darwinian evolution in politics and society
 weight: 1
 ---
 

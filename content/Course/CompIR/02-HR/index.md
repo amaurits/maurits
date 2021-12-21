@@ -2,8 +2,8 @@
 date: "2021-01-02"
 excerpt: In this block, we'll use the postcards package to make a single 'about' home
   page with only R Markdown.
-subtitle: Write and send a single postcard.
-title: A postcard
+subtitle: A survey of major humanitarian challenges today
+title: Human Rights and Humanitarianism
 weight: 2
 ---
 

@@ -13,8 +13,8 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
-subtitle: Put your best foot forward, first.
-title: A GitHub profile
+subtitle: The theory and practices of European integration
+title: Politics of European Cooperation
 weight: 1
 ---
 

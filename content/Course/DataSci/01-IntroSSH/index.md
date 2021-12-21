@@ -4,8 +4,8 @@ draft: false
 excerpt: Grid is the very first CSS module created specifically to solve the layout
   problems we’ve all been hacking our way around for as long as we’ve been making
   websites.
-subtitle: Using Netlify to deploy.
-title: Netlify
+subtitle: Overview of the most common tools and methods in computational text analysis
+title: Introduction to Data Science for the Social Sciences and Humanities
 weight: 1
 ---
 
