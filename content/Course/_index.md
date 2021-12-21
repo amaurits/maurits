@@ -4,7 +4,7 @@ cascade:
   layout: single-series
   sidebar:
     author: Maurits van der Veen
-    description: "An overview of courses I have taught in recent years."
+    description: "An overview of courses I have taught in recent years. Say a bit about teaching philosophy etc. Need more text here, and be aware that the written by text appears stuck, so make it make sense"
     show_author_byline: false
     show_post_date: true
     show_sidebar_adunit: false

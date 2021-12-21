@@ -1,8 +1,7 @@
 ---
 author: Maurits van der Veen
 date: "2021-01-26"
-description: |
-  day two
+description: can we get descriptive text in here?
 excerpt: null
 layout: single-series
 publishDate: "2021-01-22"
