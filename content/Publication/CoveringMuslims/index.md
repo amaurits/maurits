@@ -27,9 +27,19 @@ show_post_time: false
 subtitle: American Newspapers in Comparative Perspective
 title: Covering Muslims
 ---
-
 <center>
 <img src="/img/CoveringMuslims_cover.jpg" alt="Book cover">
 </center>
 
-More information about the book.
+Table of contents:
+
+1. Media coverage of Muslims: Introduction and overview
+2. The tone of Muslim coverage
+3. United States newspaper coverage of Muslims: Main patterns and group comparisons
+4. Time and tone: Major events and their impact on coverage
+5. Is the United States unique? Examining newspapers from the Anglophone North and the Global South
+6. What do newspapers talk about when they talk about Muslims?
+7. Conclusions and extensions: Islamophobia, constructing boundaries, and tone-checking the media
+
+---
+
