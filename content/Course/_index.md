@@ -5,9 +5,9 @@ cascade:
   sidebar:
     author: Maurits van der Veen
     description: "An overview of courses I have taught in recent years."
-    show_author_byline: true
+    show_author_byline: false
     show_post_date: true
-    show_sidebar_adunit: true
+    show_sidebar_adunit: false
     text_contents_label: Course categories
     text_link_label: ""
     text_link_url: ""

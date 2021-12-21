@@ -1,16 +1,16 @@
 ---
-author: Alison Hill
+author: Maurits van der Veen
 date: "2021-01-25"
 description: |
-  Our first day together is all about building and publishing.
+  Not sure where this text is used.
 excerpt: null
 layout: single-series
 publishDate: "2021-01-22"
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
-subtitle: All about Day 01 of 'Introduce Yourself Online'.
-title: Day 01
+subtitle: Courses at the intersection of comparative politics and international relations
+title: Comparative & International
 weight: 2
 ---
 
