@@ -7,8 +7,8 @@ cascade:
   show_post_date: true
   sidebar:
     show_sidebar_adunit: false
-    text_link_label: View recent posts
-    text_link_url: /blog/
+    text_link_label: ""
+    text_link_url: /Software/
 description: "I've developed a number of software tools to help do systematic text analysis. I hope others may find some of these packages useful too.\n"
 layout: list-sidebar
 show_author_byline: false
