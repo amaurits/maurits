@@ -14,7 +14,7 @@ links:
   icon_pack: fab
   name: "Github repository"
   url: https://github.com/amaurits/MultiLexScaled
-subtitle: A dictionary-based sentiment analysis approach obtaining high performance by averaging across multiple lexica, and calibrating against a large corpus of representative texts.
+subtitle: High-performance dictionary-based sentiment analysis
 title: MultiLexScaled
 ---
 
