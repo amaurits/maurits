@@ -13,12 +13,12 @@
         {{ .Content }}
         {{ .Scratch.Set "details" "closed" }}
         {{ partial "shared/post-details.html" . }}
+        {{ if .Params.links }}
+          <div class="ph0 pt5">
+            {{ partial "shared/btn-links.html" . }}
+          </div>
+        {{ end }}
       </section>
-      {{ if .Params.links }}
-        <div class="ph0 pv6">
-          {{ partial "shared/btn-links.html" . }}
-        </div>
-      {{ end }}
       <footer class="post-footer">
         {{ partial "shared/post-pagination.html" . }}
       </footer>
