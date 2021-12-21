@@ -25,6 +25,6 @@ The initial build was straight-forward, following the [instructions](https://hug
 
 ## Configuration
 
-The Apéro theme is endlessly customizeable. My first change was to change the default font to Baskerville, and to reduce the size of the standard header text, so that my name would not spill onto a second line on the landing page for normal screen widths. This change was made in the file `index.html` inside `hugo-apero/layouts`.
+The Apéro theme is endlessly customizeable. My first change was to change the default font to Baskerville, and to reduce the size of the standard header text, so that my name would not spill onto a second line on the landing page for normal screen widths. This change was made in the file `index.html` inside `hugo-apero/layouts`. Specifically, this header tag: `<h1 class="f2 f1-m f-subheadline-l fw5-ns mv4 lh-solid">` was changed by replacing the last letter in `f-subheadline-l` to `m`: `f-subheadline-m`.
 
-Additional changes will be described in additional posts in this series.
+Additional changes will be described in further posts in this series.
