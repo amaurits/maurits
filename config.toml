@@ -135,9 +135,9 @@ enableEmoji = true
     url = "/Software/"
     weight = 5
   [[menu.header]]
-    name = "Courses"
+    name = "Teaching"
     title = "Courses taught"
-    url = "/collection/"
+    url = "/Course/"
     weight = 6
   [[menu.header]]
     name = "C.V."
