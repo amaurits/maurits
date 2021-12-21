@@ -19,6 +19,7 @@ text_align_left: true
 image_left: false
 images:
 - img/OsloMarathon_2010_2ndpackX.jpg
+- img/stairlogo.png
 show_action_link: false
 show_social_links: true
 type: home

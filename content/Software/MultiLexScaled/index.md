@@ -7,13 +7,23 @@ date: "2021-12-10"
 draft: false
 excerpt: "**High-quality dictionary-based sentiment analysis**\n\n
 
-Sentiment analysis is super-widely used, but often poorly."
+Sentiment analysis (the measurement of the positivity or negativity of texts) is one of the most widely used tools in computational text analysis. MultiLexScaled is a sentiment analysis tool that can be applied off-the-shelf, has been proven to work well across a range of domains, and obtains performance comparable to dedicated machine learning applications."
 layout: single
-subtitle: This is the subtitle text on the page describing it in more detail
-title: MultiLexScaled - high-quality dictionary-based sentiment analysis
+links:
+- icon: github
+  icon_pack: fab
+  name: "Github repository"
+  url: https://github.com/amaurits/MultiLexScaled
+subtitle: A dictionary-based sentiment analysis approach obtaining high performance by averaging across multiple lexica, and calibrating against a large corpus of representative texts.
+title: MultiLexScaled
 ---
 
-Text of item, describing in a bit more detail and linking to GitHub page.
+Describe MultiLexScaled in more detail, and provide link to GitHub page.
+
+
+## What follows below here is from the sample post
+
+(Leave for now just for reference)
 
 + site header (set in `config.toml`), 
 + site footer (set in `config.toml`), 
