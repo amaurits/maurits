@@ -41,5 +41,3 @@ Table of contents:
 6. What do newspapers talk about when they talk about Muslims?
 7. Conclusions and extensions: Islamophobia, constructing boundaries, and tone-checking the media
 
----
-

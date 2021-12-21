@@ -25,8 +25,22 @@ links:
   url: https://www.amazon.com/Interests-Foreign-Cambridge-International-Relations-dp-052126409X/dp/052126409X/ref=mt_other
 location: Cambridge, UK
 show_post_time: false
-subtitle: Cambridge Studies in International Relations
+subtitle: Cambridge Studies in International Relations 120
 title: Ideas, Interests and Foreign Aid
 ---
+<center>
+<img src="/img/IdeasInterestsAid_cover.jpg" alt="Book cover">
+</center>
 
-Main text of book 
+Table of contents:
+
+1. The many uses of foreign aid
+2. One policy, multiple goals: framing and foreign aid
+3. Debates about aid: contents and patterns
+4. Aid frames: origins and evolution
+5. The administration of aid policy
+6. The generosity contest: determinants of aid volume
+7. The popularity contest: selecting the recipients of aid
+8. Conclusion: frames and policy
+
+
