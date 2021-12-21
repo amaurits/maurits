@@ -28,4 +28,8 @@ subtitle: American Newspapers in Comparative Perspective
 title: Covering Muslims
 ---
 
+<center>
+<img src="/img/CoveringMuslims_cover.jpg" alt="Book cover">
+</center>"
+
 Main text of book 
