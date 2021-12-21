@@ -1,7 +1,7 @@
 ---
 date: "2021-12-15"
 draft: false
-excerpt: Text is not used.
+excerpt: Some initial notes about developing this website.
 subtitle: ""
 title: Building a new website
 weight: 1
