@@ -145,8 +145,8 @@ enableEmoji = true
     url = "/CV/"
     weight = 7
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
+    name = "News"
+    title = "News"
     url = "/blog/"
     weight = 8
     
