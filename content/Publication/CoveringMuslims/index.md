@@ -30,6 +30,6 @@ title: Covering Muslims
 
 <center>
 <img src="/img/CoveringMuslims_cover.jpg" alt="Book cover">
-</center>"
+</center>
 
-Main text of book 
+More information about the book.
