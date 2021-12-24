@@ -3,7 +3,7 @@ date: "2021-01-02"
 draft: false
 excerpt: Not used.
 layout: single-series
-subtitle: ""
+subtitle: "The politics of international economic relations"
 title: International Political Economy
 weight: 3
 ---
