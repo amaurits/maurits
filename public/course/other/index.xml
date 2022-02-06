@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on Maurits van der Veen</title>
+    <link>https://maurits-vanderveen.netlify.app/course/other/</link>
+    <description>Recent content in Other on Maurits van der Veen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/course/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Darwinian evolution in politics and society</title>
+      <link>https://maurits-vanderveen.netlify.app/course/other/01-evolution/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/course/other/01-evolution/</guid>
+      <description>Profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+Pin projects to profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+Profile README     This is new! Let&amp;rsquo;s do it:
+https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+    </item>
+    
+    <item>
+      <title>Politics and Propaganda in Cartoons</title>
+      <link>https://maurits-vanderveen.netlify.app/course/other/02-cartooning/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/course/other/02-cartooning/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
+install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
+    </item>
+    
+  </channel>
+</rss>

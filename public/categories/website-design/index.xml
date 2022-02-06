@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website design on Maurits van der Veen</title>
+    <link>https://maurits-vanderveen.netlify.app/categories/website-design/</link>
+    <description>Recent content in website design on Maurits van der Veen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/categories/website-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a new website</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/meta-series/01-buildsite/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/meta-series/01-buildsite/</guid>
+      <description>First steps     I have long been a fan of static websites, which are portable, compact, and do not require a lot of server overhead. Since it was time to update my woefully inadequate website, I did some research into different static website options.
+ Hugo is a powerful and widely-used framework for building static websites and offers a number of attractive themes.
+ Blogdown makes it easy to edit a website&amp;rsquo;s files within RStudio.</description>
+    </item>
+    
+    <item>
+      <title>Markdown and page formatting</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/meta-series/02-textformatting/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/meta-series/02-textformatting/</guid>
+      <description>Basic text formatting     Basic markdown and standard html tags work in most places where text is used in the website, but not everywhere. In particular, some pieces of text do not allow internal modifications to text size. One of the few possibilities there is to use the &amp;lt;sub&amp;gt;&amp;lt;/sub&amp;gt; tags to make text subscript (and therefore also smaller).
+Code blocks     Code blocks are started and stopped by triple backquotes.</description>
+    </item>
+    
+    <item>
+      <title>A third post</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/meta-series/03-pagetypes/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/meta-series/03-pagetypes/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/blog/meta-series/03-pagetypes/index.markdown  Here is my R Markdown source file: blog/meta-series/03-pagetypes/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
+ To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/meta-series/03-pagetypes/featured-photo.</description>
+    </item>
+    
+    <item>
+      <title>Website development</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/meta-series/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/meta-series/</guid>
+      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
+    </item>
+    
+  </channel>
+</rss>

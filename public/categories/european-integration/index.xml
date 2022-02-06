@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>European integration on Maurits van der Veen</title>
+    <link>https://maurits-vanderveen.netlify.app/categories/european-integration/</link>
+    <description>Recent content in European integration on Maurits van der Veen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/categories/european-integration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>European solidarity</title>
+      <link>https://maurits-vanderveen.netlify.app/research/european-solidarity/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/research/european-solidarity/</guid>
+      <description> Header at the top     blabla
+Smaller header     </description>
+    </item>
+    
+  </channel>
+</rss>

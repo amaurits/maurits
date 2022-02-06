@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo-site on Maurits van der Veen</title>
+    <link>https://maurits-vanderveen.netlify.app/tags/hugo-site/</link>
+    <description>Recent content in hugo-site on Maurits van der Veen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/tags/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a new website</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/meta-series/01-buildsite/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/meta-series/01-buildsite/</guid>
+      <description>First steps     I have long been a fan of static websites, which are portable, compact, and do not require a lot of server overhead. Since it was time to update my woefully inadequate website, I did some research into different static website options.
+ Hugo is a powerful and widely-used framework for building static websites and offers a number of attractive themes.
+ Blogdown makes it easy to edit a website&amp;rsquo;s files within RStudio.</description>
+    </item>
+    
+    <item>
+      <title>Markdown and page formatting</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/meta-series/02-textformatting/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/meta-series/02-textformatting/</guid>
+      <description>Basic text formatting     Basic markdown and standard html tags work in most places where text is used in the website, but not everywhere. In particular, some pieces of text do not allow internal modifications to text size. One of the few possibilities there is to use the &amp;lt;sub&amp;gt;&amp;lt;/sub&amp;gt; tags to make text subscript (and therefore also smaller).
+Code blocks     Code blocks are started and stopped by triple backquotes.</description>
+    </item>
+    
+    <item>
+      <title>A third post</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/meta-series/03-pagetypes/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/meta-series/03-pagetypes/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/blog/meta-series/03-pagetypes/index.markdown  Here is my R Markdown source file: blog/meta-series/03-pagetypes/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
+ To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/meta-series/03-pagetypes/featured-photo.</description>
+    </item>
+    
+    <item>
+      <title>European solidarity</title>
+      <link>https://maurits-vanderveen.netlify.app/research/european-solidarity/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/research/european-solidarity/</guid>
+      <description> Header at the top     blabla
+Smaller header     </description>
+    </item>
+    
+    <item>
+      <title>Website development</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/meta-series/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/meta-series/</guid>
+      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
+    </item>
+    
+    <item>
+      <title>Idea diffusion</title>
+      <link>https://maurits-vanderveen.netlify.app/research/idea-diffusion/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/research/idea-diffusion/</guid>
+      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.      Because Speed     Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
+    </item>
+    
+    <item>
+      <title>Framing migrants and refugees</title>
+      <link>https://maurits-vanderveen.netlify.app/research/refugees/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/research/refugees/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
+ Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+    </item>
+    
+    <item>
+      <title>Systematic text analysis - emotions and judgments</title>
+      <link>https://maurits-vanderveen.netlify.app/research/text-analysis/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/research/text-analysis/</guid>
+      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+    </item>
+    
+    <item>
+      <title>Tachyons for Style</title>
+      <link>https://maurits-vanderveen.netlify.app/project/giraffes/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/project/giraffes/</guid>
+      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.      Because Speed     Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
+    </item>
+    
+    <item>
+      <title>CSS Grid Scaffold</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/css-grid-scaffold/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/css-grid-scaffold/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
+ Overview     Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+    </item>
+    
+    <item>
+      <title>Palmer Penguins</title>
+      <link>https://maurits-vanderveen.netlify.app/project/penguins/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/project/penguins/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
+ Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+    </item>
+    
+    <item>
+      <title>Bakeoff</title>
+      <link>https://maurits-vanderveen.netlify.app/project/bakeoff/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/project/bakeoff/</guid>
+      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+    </item>
+    
+    <item>
+      <title>Built-in Contact Form</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/built-in-contact-form/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/built-in-contact-form/</guid>
+      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maurits van der Veen</title>
+    <link>https://maurits-vanderveen.netlify.app/</link>
+    <description>Recent content on Maurits van der Veen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a new website</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/meta-series/01-buildsite/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/meta-series/01-buildsite/</guid>
+      <description>First steps     I have long been a fan of static websites, which are portable, compact, and do not require a lot of server overhead. Since it was time to update my woefully inadequate website, I did some research into different static website options.
+ Hugo is a powerful and widely-used framework for building static websites and offers a number of attractive themes.
+ Blogdown makes it easy to edit a website&amp;rsquo;s files within RStudio.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Data Science for the Social Sciences and Humanities</title>
+      <link>https://maurits-vanderveen.netlify.app/course/datasci/01-introssh/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/course/datasci/01-introssh/</guid>
+      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
+Pre-requisites     Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
+    </item>
+    
+    <item>
+      <title>Introduction to International Relations</title>
+      <link>https://maurits-vanderveen.netlify.app/course/intrel/01-introir/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/course/intrel/01-introir/</guid>
+      <description>Subheader     plus info on when most recently offered</description>
+    </item>
+    
+    <item>
+      <title>Netlify</title>
+      <link>https://maurits-vanderveen.netlify.app/collection/day02/01-netlify/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/collection/day02/01-netlify/</guid>
+      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
+Pre-requisites     Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
+    </item>
+    
+    <item>
+      <title>A GitHub profile</title>
+      <link>https://maurits-vanderveen.netlify.app/collection/day01/01-github/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/collection/day01/01-github/</guid>
+      <description>Profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+Pin projects to profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+Profile README     This is new! Let&amp;rsquo;s do it:
+https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+    </item>
+    
+    <item>
+      <title>Darwinian evolution in politics and society</title>
+      <link>https://maurits-vanderveen.netlify.app/course/other/01-evolution/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/course/other/01-evolution/</guid>
+      <description>Profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+Pin projects to profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+Profile README     This is new! Let&amp;rsquo;s do it:
+https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+    </item>
+    
+    <item>
+      <title>Politics of European Cooperation</title>
+      <link>https://maurits-vanderveen.netlify.app/course/compir/01-eu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/course/compir/01-eu/</guid>
+      <description>Profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+Pin projects to profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+Profile README     This is new! Let&amp;rsquo;s do it:
+https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+    </item>
+    
+    <item>
+      <title>Prework</title>
+      <link>https://maurits-vanderveen.netlify.app/collection/prework/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/collection/prework/</guid>
+      <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
+Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
+    </item>
+    
+    <item>
+      <title>Markdown and page formatting</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/meta-series/02-textformatting/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/meta-series/02-textformatting/</guid>
+      <description>Basic text formatting     Basic markdown and standard html tags work in most places where text is used in the website, but not everywhere. In particular, some pieces of text do not allow internal modifications to text size. One of the few possibilities there is to use the &amp;lt;sub&amp;gt;&amp;lt;/sub&amp;gt; tags to make text subscript (and therefore also smaller).
+Code blocks     Code blocks are started and stopped by triple backquotes.</description>
+    </item>
+    
+    <item>
+      <title>A postcard</title>
+      <link>https://maurits-vanderveen.netlify.app/collection/day01/02-postcards/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/collection/day01/02-postcards/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
+install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>Human Rights and Humanitarianism</title>
+      <link>https://maurits-vanderveen.netlify.app/course/compir/02-hr/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/course/compir/02-hr/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
+install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>Politics and Propaganda in Cartoons</title>
+      <link>https://maurits-vanderveen.netlify.app/course/other/02-cartooning/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/course/other/02-cartooning/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
+install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>Data visualization</title>
+      <link>https://maurits-vanderveen.netlify.app/course/datasci/02-visualization/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/course/datasci/02-visualization/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the blogdown package installed from CRAN:
+install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>International Relations in Theory and History</title>
+      <link>https://maurits-vanderveen.netlify.app/course/intrel/02-irtheory/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/course/intrel/02-irtheory/</guid>
+      <description>intro blurb
+Pre-requisites     syllabus
+install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.
+Clone GitHub repo     usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-blogdown.git&amp;quot;) ✨ Commit &amp;amp; Push!</description>
+    </item>
+    
+    <item>
+      <title>Using blogdown</title>
+      <link>https://maurits-vanderveen.netlify.app/collection/day02/02-blogdown/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/collection/day02/02-blogdown/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the blogdown package installed from CRAN:
+install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>A third post</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/meta-series/03-pagetypes/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/meta-series/03-pagetypes/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/blog/meta-series/03-pagetypes/index.markdown  Here is my R Markdown source file: blog/meta-series/03-pagetypes/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
+ To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/meta-series/03-pagetypes/featured-photo.</description>
+    </item>
+    
+    <item>
+      <title>A distill site</title>
+      <link>https://maurits-vanderveen.netlify.app/collection/day01/03-distill/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/collection/day01/03-distill/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the distill package installed from CRAN:
+install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>International Political Economy</title>
+      <link>https://maurits-vanderveen.netlify.app/course/intrel/03-ipe/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/course/intrel/03-ipe/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/Course/IntRel/03-IPE/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: Course  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>Warm woolen mittens</title>
+      <link>https://maurits-vanderveen.netlify.app/collection/day02/03-blogdown/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/collection/day02/03-blogdown/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>International Relations in Disciplinary Perspective</title>
+      <link>https://maurits-vanderveen.netlify.app/course/intrel/04-ircrossdisc/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/course/intrel/04-ircrossdisc/</guid>
+      <description> part 2!     does this work?      now for some very cool things     more     get ready!     </description>
+    </item>
+    
+    <item>
+      <title>European solidarity</title>
+      <link>https://maurits-vanderveen.netlify.app/research/european-solidarity/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/research/european-solidarity/</guid>
+      <description> Header at the top     blabla
+Smaller header     </description>
+    </item>
+    
+    <item>
+      <title>Assessing the Effect of Media Tone on Attitudes toward Muslims</title>
+      <link>https://maurits-vanderveen.netlify.app/publication/polreligion/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/publication/polreligion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covering Muslims</title>
+      <link>https://maurits-vanderveen.netlify.app/publication/coveringmuslims/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/publication/coveringmuslims/</guid>
+      <description>  Table of contents:
+ Media coverage of Muslims: Introduction and overview The tone of Muslim coverage United States newspaper coverage of Muslims: Main patterns and group comparisons Time and tone: Major events and their impact on coverage Is the United States unique? Examining newspapers from the Anglophone North and the Global South What do newspapers talk about when they talk about Muslims? Conclusions and extensions: Islamophobia, constructing boundaries, and tone-checking the media  </description>
+    </item>
+    
+    <item>
+      <title>Idea diffusion</title>
+      <link>https://maurits-vanderveen.netlify.app/research/idea-diffusion/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/research/idea-diffusion/</guid>
+      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.      Because Speed     Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
+    </item>
+    
+    <item>
+      <title>Framing migrants and refugees</title>
+      <link>https://maurits-vanderveen.netlify.app/research/refugees/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/research/refugees/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
+ Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+    </item>
+    
+    <item>
+      <title>MultiLexScaled</title>
+      <link>https://maurits-vanderveen.netlify.app/software/multilexscaled/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/software/multilexscaled/</guid>
+      <description>Describe MultiLexScaled in more detail, and provide link to GitHub page.
+What follows below here is from the sample post     (Leave for now just for reference)
+ site header (set in config.toml), site footer (set in config.toml),  homepage (set in content/_index.md),  about page in the sidebar (set in content/about/sidebar/index.md), and  contact page (set in content/form/contact.md).  Read on to learn how to set up your social icons, and how to show/hide them.</description>
+    </item>
+    
+    <item>
+      <title>Systematic text analysis - emotions and judgments</title>
+      <link>https://maurits-vanderveen.netlify.app/research/text-analysis/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/research/text-analysis/</guid>
+      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+    </item>
+    
+    <item>
+      <title>Atheism in US and UK Newspapers</title>
+      <link>https://maurits-vanderveen.netlify.app/publication/atheists/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/publication/atheists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set up your social</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/social/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/social/</guid>
+      <description>There are five places where you can choose to show social icons. Here is the tl;dr:
+ site header (set in config.toml), site footer (set in config.toml),  homepage (set in content/_index.md),  about page in the sidebar (set in content/about/sidebar/index.md), and  contact page (set in content/form/contact.md).  Read on to learn how to set up your social icons, and how to show/hide them.
+Configure social     Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site config.</description>
+    </item>
+    
+    <item>
+      <title>Style your site colors</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/color-themes/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/color-themes/</guid>
+      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
+Use a color theme     Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS.</description>
+    </item>
+    
+    <item>
+      <title>Style your site typography</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/fonts/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/fonts/</guid>
+      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
+Embedded fonts     Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content ❤️!</description>
+    </item>
+    
+    <item>
+      <title>An evergreen post</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/evergreen/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/evergreen/</guid>
+      <description>Rendering mathematical equations     Examples from the mathjax demo. But they work with katex as well.
+Rmarkdown     In .Rmarkdown documents, you can use either
+$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.
+And you can use
+$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:</description>
+    </item>
+    
+    <item>
+      <title>A campfire</title>
+      <link>https://maurits-vanderveen.netlify.app/talk/campfire/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/talk/campfire/</guid>
+      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
+    </item>
+    
+    <item>
+      <title>Using panelsets</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/seedling/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/seedling/</guid>
+      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
+For example, this panelset:
+Hello! 👋 hello
+ Goodbye 💨 goodbye
+  Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:
+{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:</description>
+    </item>
+    
+    <item>
+      <title>A seedling</title>
+      <link>https://maurits-vanderveen.netlify.app/talk/second-seedling/</link>
+      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/talk/second-seedling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Rmarkdown post</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/rmarkdown/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/rmarkdown/</guid>
+      <description> Air quality     with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
+    </item>
+    
+    <item>
+      <title>A seedling</title>
+      <link>https://maurits-vanderveen.netlify.app/talk/seedling/</link>
+      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/talk/seedling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tachyons for Style</title>
+      <link>https://maurits-vanderveen.netlify.app/project/giraffes/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/project/giraffes/</guid>
+      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.      Because Speed     Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
+    </item>
+    
+    <item>
+      <title>CSS Grid Scaffold</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/css-grid-scaffold/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/css-grid-scaffold/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
+ Overview     Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+    </item>
+    
+    <item>
+      <title>Palmer Penguins</title>
+      <link>https://maurits-vanderveen.netlify.app/project/penguins/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/project/penguins/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
+ Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+    </item>
+    
+    <item>
+      <title>Bakeoff</title>
+      <link>https://maurits-vanderveen.netlify.app/project/bakeoff/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/project/bakeoff/</guid>
+      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+    </item>
+    
+    <item>
+      <title>Built-in Contact Form</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/built-in-contact-form/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/built-in-contact-form/</guid>
+      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://maurits-vanderveen.netlify.app/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
+      <title>Typography Styles &amp; Element Examples</title>
+      <link>https://maurits-vanderveen.netlify.app/elements/</link>
+      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/elements/</guid>
+      <description>Font Sizes   A A A A A A A A   6rem
+(96px) 5rem
+(80px) 3rem
+(48px) 2.25rem
+(36px) 1.5rem
+(24px) 1.25rem
+(20px) 1rem
+(16px) .875rem
+(14px)     Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+    </item>
+    
+    <item>
+      <title>Ideas, Interests and Foreign Aid</title>
+      <link>https://maurits-vanderveen.netlify.app/publication/ideasinterestsaid/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/publication/ideasinterestsaid/</guid>
+      <description>  Table of contents:
+ The many uses of foreign aid One policy, multiple goals: framing and foreign aid Debates about aid: contents and patterns Aid frames: origins and evolution The administration of aid policy The generosity contest: determinants of aid volume The popularity contest: selecting the recipients of aid Conclusion: frames and policy  </description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>https://maurits-vanderveen.netlify.app/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/contributors/</guid>
+      <description>This website is built using the hugo-apero theme developed by Alison Hill, which in turn was built upon the blogophonic Hugo theme developed by Eric Anderson and the team at Formspree.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://maurits-vanderveen.netlify.app/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

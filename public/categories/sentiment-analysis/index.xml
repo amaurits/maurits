@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sentiment analysis on Maurits van der Veen</title>
+    <link>https://maurits-vanderveen.netlify.app/categories/sentiment-analysis/</link>
+    <description>Recent content in sentiment analysis on Maurits van der Veen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/categories/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Covering Muslims</title>
+      <link>https://maurits-vanderveen.netlify.app/publication/coveringmuslims/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/publication/coveringmuslims/</guid>
+      <description>  Table of contents:
+ Media coverage of Muslims: Introduction and overview The tone of Muslim coverage United States newspaper coverage of Muslims: Main patterns and group comparisons Time and tone: Major events and their impact on coverage Is the United States unique? Examining newspapers from the Anglophone North and the Global South What do newspapers talk about when they talk about Muslims? Conclusions and extensions: Islamophobia, constructing boundaries, and tone-checking the media  </description>
+    </item>
+    
+    <item>
+      <title>MultiLexScaled</title>
+      <link>https://maurits-vanderveen.netlify.app/software/multilexscaled/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/software/multilexscaled/</guid>
+      <description>Describe MultiLexScaled in more detail, and provide link to GitHub page.
+What follows below here is from the sample post     (Leave for now just for reference)
+ site header (set in config.toml), site footer (set in config.toml),  homepage (set in content/_index.md),  about page in the sidebar (set in content/about/sidebar/index.md), and  contact page (set in content/form/contact.md).  Read on to learn how to set up your social icons, and how to show/hide them.</description>
+    </item>
+    
+    <item>
+      <title>Atheism in US and UK Newspapers</title>
+      <link>https://maurits-vanderveen.netlify.app/publication/atheists/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/publication/atheists/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

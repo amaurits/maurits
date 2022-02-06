@@ -1,152 +1,505 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/blog/meta-series/01-buildsite/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/intrel/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/datasci/01-introssh/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/intrel/01-introir/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
   <url>
     <loc>https://maurits-vanderveen.netlify.app/collection/day02/01-netlify/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/spoonful-series/01-spoonful/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/collection/day01/01-github/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/other/01-evolution/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/compir/01-eu/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/collection/prework/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/blog/meta-series/02-textformatting/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/compir/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/collection/day01/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/collection/day01/02-postcards/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/spoonful-series/02-spoonful/</loc>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/compir/02-hr/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/other/02-cartooning/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/datasci/02-visualization/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/intrel/02-irtheory/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/collection/day02/02-blogdown/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/datasci/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/collection/day02/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/spoonful-series/03-spoonful/</loc>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/blog/meta-series/03-pagetypes/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/collection/day01/03-distill/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/intrel/03-ipe/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/other/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/intrel/04-ircrossdisc/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/categories/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/european-integration/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/research/european-solidarity/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/tags/hugo-site/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/projects/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/research/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/solidarity/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/tags/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/polreligion/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/hugo/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/markdown/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/blog/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/religious-minorities-sentiment-analysis-experiment/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/series/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/website-design/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/series/website-development/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/blog/meta-series/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/coveringmuslims/</loc>
+    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/framing/</loc>
+    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/research/idea-diffusion/</loc>
+    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/ideas/</loc>
+    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/media-coverage/</loc>
+    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/religious-minorities/</loc>
+    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/research-project/</loc>
+    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/sentiment-analysis/</loc>
+    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/research/refugees/</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/migration/</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/project/</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/code-development/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/software/multilexscaled/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/nlp/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/python/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/software/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/research/text-analysis/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/text-preprocessing/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/atheists/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/blog/social/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/categories/theme-features/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/tags/style/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/blog/color-themes/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/blog/fonts/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maurits-vanderveen.netlify.app/tags/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/blog/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/categories/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/talk/campfire/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/talk/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/categories/workshop/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maurits-vanderveen.netlify.app/series/a-spoonful-of-hugo/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/spoonful-series/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maurits-vanderveen.netlify.app/tags/hugo-site/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maurits-vanderveen.netlify.app/categories/r/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maurits-vanderveen.netlify.app/series/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/blog/seedling/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/talk/second-seedling/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/categories/meetup/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/blog/rmarkdown/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/talk/seedling/</loc>
     <lastmod>2020-01-13T14:15:59-06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/categories/package/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/r/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/project/giraffes/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/blog/css-grid-scaffold/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/project/penguins/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/project/bakeoff/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/form/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/foreign-aid/</loc>
+    <lastmod>2011-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/foreign-policy/</loc>
+    <lastmod>2011-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/ideasinterestsaid/</loc>
+    <lastmod>2011-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/legislative-debates/</loc>
+    <lastmod>2011-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/about/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/contributors/</loc>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/cv/</loc>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/license/</loc>
   </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/lab/</loc>
+  </url>
+  
 </urlset>
