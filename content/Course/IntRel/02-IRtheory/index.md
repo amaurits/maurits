@@ -1,7 +1,7 @@
 ---
 date: "2021-01-01"
 excerpt: Not used.
-subtitle: A critical look at the history of IR and of IR as a discipline
+subtitle: A critical look at the history of IR and of IR as a discipline, with a focus on hierarchy & race
 title: International Relations in Theory and History
 weight: 2
 ---
@@ -18,4 +18,4 @@ Next, we tend to think of our standard theories about international relations as
 
 ## Syllabus
 
-I most recently offered this course in the Fall of 2021. Syllabus [here](GOVT_327_IR_theory_Fall_2021_van_der_Veen.pdf).
+I most recently offered this course in the Fall of 2021. Syllabus [here](GOV327_IR_theory_Fall_2021_van_der_Veen.pdf).
