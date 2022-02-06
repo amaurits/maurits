@@ -20,7 +20,7 @@ sidebar:
   description: "This page lists news items and notes related to my work other than publications (which are on the Publications page)."
   show_sidebar_adunit: false
   text_link_label: "Go to Publications"
-  text_link_url: /publications/
+  text_link_url: /publication/
   title: News and notes
 thumbnail_left: true
 title: News and notes
