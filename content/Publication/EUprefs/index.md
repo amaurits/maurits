@@ -5,7 +5,7 @@ categories:
 - public opinion
 - surveys
 pubtype: "Peer-reviewed articles"
-date: "2018-08-16"
+date: "2016-03-01"
 draft: false
 excerpt: "Since its beginnings in the 1950s, the policymaking scope and authority of the European Union have dramatically expanded across a wide range of issue areas. Yet much remains unknown about the interaction between public preferences for EU-level governance, changes in such governance and overall support for European integration. This article analyses surveys ranging from 1962 to 2010 to show that while support for integration in different policy areas has fluctuated over time, it has been surprisingly stable overall; moreover, the relative preference ordering across issue areas has been even more consistent. In addition, this consistency is not affected by changes in Europeanization, nor do such changes appear to be driven by the relative strength of preferences. Finally, issue-specific support for EU-level governance has an impact on overall EU support that becomes stronger as Europeanization in that issue area increases, an effect that increases further with greater political knowledge. These findings call into question understandings of rising Euroscepticism as a reaction to Europeanization taking place primarily in areas where publics oppose it. In addition, they indicate that public awareness of European integration is far greater than political knowledge tests appear to indicate."
 layout: single
