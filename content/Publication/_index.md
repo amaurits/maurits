@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent publications
     text_link_url: /Publication/
 description: |
-  Below is a selection of my publications. For a full list, please refer to my [C.V.]("link.pdf")
+  Below is a selection of my publications. For a full list, please refer to my [C.V.]("/files/van der Veen CV 2021-12.pdf")
 layout: list
 show_author_byline: false
 show_button_links: true
