@@ -1,136 +1,24 @@
 ---
-date: "2021-01-02"
-excerpt: In this block, we'll use the postcards package to make a single 'about' home
-  page with only R Markdown.
+date: "2021-01-01"
+draft: false
+excerpt: Not used.
+layout: single-series
 subtitle: A survey of major humanitarian challenges today
 title: Human Rights and Humanitarianism
 weight: 2
 ---
 
-## Pre-requisites
+## Overview
 
-First, make sure you have the latest version of the postcards package installed from CRAN:
+_(from the introductory section of the 2019 syllabus)_
 
-```
-install.packages("postcards")
-```
+What are human rights, where do they come from, and why do/should they matter? Recent events around the world underscore the importance of grappling with such questions, as they relate to a wide range of issues, from the ongoing Syrian crisis (What rights do/should refugees have? How do/should we respond to crimes against humanity committed by a government?) to responses to terrorism (Are any rights inviolable in attempts to prevent terrorist attacks? Should they be?), to concerns about human trafficking across the Mediterranean into Europe (How do we identify human rights violations? How should destination governments respond?)
 
-Restart your R session. If you use RStudio, use the menu item *Session > Restart R* or the associated keyboard shortcut:
+The fact that such questions can, and often do, make headlines is in itself an indication of progress. Indeed, formalizing a concern with human rights must be considered one of the signal achievements of international politics since World War II. Today, international human rights covenants subject states to increasing constraints, and gross human rights violations have become a justification for sanctions or even humanitarian intervention. But how did this come about? What has made states begin to care about whether their behaviour (or that of other states) violates human rights?
 
-+ <kbd>Ctrl + Shift + F10</kbd> (Windows and Linux) or
-+ <kbd>Command + Shift + F10<kbd> (Mac OS). 
+In this course, we will focus especially on the practical and political implications of human rights, in an attempt to understand how and why they matter for what actually happens in world politics (as opposed to what one might wish would happen). What obligations do states have to defend and guarantee human rights at home? How are those obligations enforced, if at all? To what degree do such obligations extend internationally? Who decides when international intervention is justified? Are some human rights more important than others? What are the pitfalls associated with humanitarian action? These are the types of questions we will be looking at over the course of the semester.
 
-```
-packageVersion("postcards")
-[1] ‘0.2.0’
-```
+## Syllabus
 
-## Create GitHub repo
+I most recently offered this course in the Fall of 2019 (syllabus [here](GOV404_HR_Fall_2019_van_der_Veen.pdf)). Since then, my amazing new colleague [Kelly Zvobgo](https://www.zvobgo.com/) has expanded our department's course offerings in Human Rights (see [here](https://www.zvobgo.com/teaching)). As a result, when I next offer this seminar, it will assume prior coursework in HR and will be more narrowly focused.
 
-Online.
-
-## Clone GitHub repo
-
-```
-usethis::create_from_github("https://github.com/apreshill/global-postcard.git")
-```
-
-:sparkles: Commit & Push! :sparkles:
-
-You should be committing these files:
-
-+ `*.Rproj`
-
-+ `.gitignore`
-
-## Create a postcard {#templates}
-
-Inside your current postcards project, use the R console:
-
-```
-library(postcards)
-```
-
-Then you could run (wait- don't do this yet!):
-
-```
-create_postcard()
-```
-
-But you could also pick one of four templates:
-
-1. `"jolla"` (<https://seankross.com/postcards-templates/jolla/>) [the default]
-
-1. `"jolla-blue"` (<https://seankross.com/postcards-templates/jolla-blue/>)
-
-1. `"trestles"` (<https://seankross.com/postcards-templates/trestles/>)
-
-1. `"onofre"` (<https://seankross.com/postcards-templates/onofre/>)
-
-```
-create_postcard(template = "jolla") #default
-create_postcard(template = "jolla-blue")
-create_postcard(template = "trestles")
-create_postcard(template = "onofre")
-```
-
-<aside>
-Want to know more? Under the hood, these are R Markdown templates, which you can include in a package.
-</aside>
-
-## Anatomy of a postcard
-
-YAML, body, name is index- this is special
-
-:sparkles: Commit & Push! :sparkles:
-
-You should be committing these files:
-
-+ `index.Rmd`
-
-+ `*.jpg`
-
-But! There is no `.html` file (yet...)
-
-
-## Knit the postcard
-
-Knit button or
-
-```
-rmarkdown::render("index.Rmd")
-```
-
-What is new in your Git pane?
-
-:sparkles: Commit & Push! :sparkles:
-
-You should be committing this files:
-
-+ `index.html`
-
-(You may get a warning in RStudio IDE that this file is too big- go right ahead)
-
-## Publish a postcard
-
-Easy: 
-
-+ Push, publish to GitHub pages
-https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site
-
-Medium:
-
-```
-> use_github_pages(branch = "main", path = "/")
-✓ Setting active project to '/Users/alison/rscratch/global-postcard'
-✓ Activating GitHub Pages for 'apreshill/global-postcard'
-✓ GitHub Pages is publishing from:
-● URL: 'https://apreshill.github.io/global-postcard/'
-● Branch: 'main'
-● Path: '/'
-```
-
-## Share your postcard!
-
-Add it to your repository details
-  
