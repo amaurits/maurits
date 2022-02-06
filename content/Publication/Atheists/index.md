@@ -20,3 +20,4 @@ subtitle: Negativity about Non-Belief and Non-Believers
 title: Atheism in US and UK Newspapers
 ---
 
+![](figure.jpg)
