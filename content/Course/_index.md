@@ -4,7 +4,7 @@ cascade:
   layout: single-series
   sidebar:
     author: Maurits van der Veen
-    description: "This page provides (non-exhaustive) information about courses I have taught.\n\n
+    description: "This page provides (non-exhaustive) information about courses I teach and/or have taught.\n\n
     
 <sub>_The illustrations on this page are all from old books. At the top of this sidebar: the 'Secret Resolutions' of the Dutch States-General, a history of Dutch diplomatic relations in the 16th-18th centuries; for the international relations section: the title page of Grotius' Laws of War and Peace; for the comparative/IR section: a cartographic depiction of Europe as a woman, from Münster's Cosmographia; for the data science section: a chained binding, from Harvard's Houghton Library; for the final section: the title page of Darwin's Origin of Species._</sub>"
     show_author_byline: false
