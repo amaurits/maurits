@@ -1,7 +1,7 @@
 ---
 author: Erik Bleich, Mira Chugh, Adrienne Goldstein, Amelia Pollard, Varsha Vijayakumar, and A. Maurits van der Veen
 categories:
-- religious minorities
+- Africa
 - media coverage
 - sentiment analysis
 pubtype: "Peer-reviewed articles"
