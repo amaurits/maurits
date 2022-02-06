@@ -12,7 +12,7 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: "MPoMP website"
+  name: "website"
   url: https://www.mediaandminorities.org/reports/
 location: MPoMP Annual Report, vol. 3
 show_post_time: false
