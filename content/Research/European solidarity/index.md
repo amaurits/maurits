@@ -17,7 +17,7 @@ title: European solidarity
 ---
 
 <center>
-![](featured-hex.png)
+<img src="featured-hex.png">
 </center>
 
 ## Solidarity and shared identity in Europe
