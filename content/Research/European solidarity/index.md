@@ -24,7 +24,7 @@ title: European solidarity
 
 The long-term viability of European integration relies on a sense that member states and publics share important connections. Whether framed in terms of a European identity, the idea of linked fates, or more prosaically economic interdependence, a feeling that states and publics are connected is essential. Where does such a feeling come from? Does it make sense to think of it as transnational solidarity? Is it stronger in some countries than in others? And how do the European Union’s limits affect who the connectedness extends to?
 
-### Meaning of solidarity
+### The meaning of solidarity
 
 The word "solidarity" itself is widely used in discussions of the European Union member states' responses to the various crises that have challenged the EU since the turn of the century. But does it mean the same thing to people across member states? Differences in the understanding of what "solidarity" is and what it requires from them vis-à-vis other member states may produce disagreement and problems reaching and implementing policy responses. In a working paper with the students in my undergraduate research lab ([STAIR lab](stair.wm.edu)) we aim to provide an answer to this question. Preliminary findings do indicate that there are considerable differences both in the meaning of the word and in the frequency with which it is used in national discussions.
 
