@@ -11,7 +11,7 @@ excerpt: "Migration is a thorny political issue almost everywhere. How are publi
 \n\n
 _<sub>Photo: Mstyslav Chernov (Wikimedia Commons, 43060174, CC BY-SA 4.0)</sub>_" 
 featured: true
-layout: single-sidebar
+layout: single
 subtitle: ""
 tags:
 - refugees

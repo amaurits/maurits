@@ -10,7 +10,7 @@ excerpt: "When Black Lives Matter protests exploded in the summer of 2020, they 
 
 _<sub>Photo: Elekes Andor (Wikimedia Commons, 83482595, CC BY-SA 4.0)</sub>_" 
 layout: single
-subtitle: The spread of key concepts and ideas from country of origins to others.
+subtitle: The spread of key concepts and ideas from country of origin to others.
 tags:
 - hugo-site
 title: Idea diffusion
