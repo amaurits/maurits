@@ -6,70 +6,39 @@ categories:
 - Framing
 date: "2021-12-12"
 draft: false
-excerpt: "Migration is a thorny political issue almost everywhere. How are public opinion and policy
-choices affected by the way people think about migrants? My research looks at whether migrants are
-thought of differently from refugees or victims of cross-border human trafficking; how the nation
-of origin of migrants affects attitudes, and how competing perceptions of migrants affect both
-national policy and international diplomacy (especially within Europe) regarding migrants.
+excerpt: "Migration is a thorny political issue almost everywhere. How are public opinion and policy choices affected by the way people think about migrants? My research looks at whether migrants are thought of differently from refugees or victims of cross-border human trafficking; how the nation of origin of migrants affects attitudes, and how competing perceptions of migrants affect both national policy and international diplomacy (especially within Europe) regarding migrants.
 
-(note: link currently leads to unrelated sample page)
 \n\n
 _<sub>Photo: Mstyslav Chernov (Wikimedia Commons, 43060174, CC BY-SA 4.0)</sub>_" 
 featured: true
 layout: single-sidebar
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://allisonhorst.github.io/palmerpenguins/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/allisonhorst/palmerpenguins/
-- icon: newspaper
-  icon_pack: far
-  name: Blog post
-  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
 subtitle: ""
 tags:
-- hugo-site
+- refugees
+- migration
 title: Framing migrants and refugees
 ---
 
-### “Grid is the very first CSS module created specifically to solve the layout problems we've all been hacking our way around for as long as we've been making websites.”
+<center>
+<img src="featured.png">
+</center>
 
-*— [Chris House, A Complete Guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)* [^1]
+## Migrants and refugees in the public discourse
 
----
+Migration is a thorny political issue almost everywhere. How are public opinion and policy choices affected by the way people think about migrants? My research looks at whether migrants are thought of differently from refugees or victims of cross-border human trafficking; how the nation of origin of migrants affects attitudes, and how competing perceptions of migrants affect both national policy and international diplomacy (especially within Europe) regarding migrants.
 
-Since I began building websites in Y2K, I've lost count how many times the phrase "...there's got to be a better way to do this" has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid `TABLE`.
+### Differentiating types of international movement
 
-Well, technology sure has come a long way since slicing up images to match the table-based layout that was just created in Dreamweaver. You'd be surprised (or maybe you wouldn't) how challenging the standard header, content, sidebar, footer layout could be to actually get right.
+The problem of human trafficking has become increasingly salient in the public and policy discourse. Trafficking is unusual among human rights violations in that it generally involves crossing borders. This makes it particularly important to distinguish trafficking situations from those involving refugees or migrants. However, legal authorities and humanitarian organizations complain that the public (and policy-makers) frequently conflate trafficking with these other types of cross-border movement. I use new techniques from computational linguistics to compare the framing of trafficking, refugees, and migrants in the British and Irish print media. Drawing on a dataset of hundreds of thousands of articles, I show that trafficking is framed far more similarly to cases of (illegal) migration than to cases of other human rights violations.
 
-{{< figure src="css-grid-cover.png" alt="Traditional right sidebar layout" caption="A visual example of the traditional right sidebar layout" >}}
+### Migrants in the Brexit campaign
 
----
+It is well-established that (the threat of) migration played a prominent role in the Brexit campaign. But which migrants, and how were they discussed. I extract print media references to the European Union since the beginning of European Union membership, and show that migration has only become a major issue for the British in the EU context in recent years, driven by political entrepreneurs such as Nigel Farage's UK Independence Party. In addition, I use collocation analysis to study a large corpus of tweets mentioning Brexit from May/June 2016, and show that tweets using conflict-related keywords disproportionately identify Muslims first, and migrants second. Ironically, topics directly related to Europe and the EU are actually less prominent in tweets about Brexit. I'm currently pursuing this line of inquiry further in order to understand better the role migration played in the campaign, as well as the impact of elites such as Farage.
 
-### <dfn title="Ermahgerd is a humorous version of the phrase oh my god, written as though pronounced with a heavy influence of extra Rs. It's meant to imitate the sound of someone speaking through a retainer.">ERMAHGERD</dfn>
+### The migrant caravan
 
-A proper grid is what we always wanted, no ... _needed_ to build websites with a solid, unbreakable structure. And that's why I used it in this theme. I call this feature a "scaffold" because none of the _content_ is laid out on this grid. Only the main _structure_: consisting of the `header`, `footer`, `main`, `aside`, and `footer`. As you can tell by this quote from the [W3C](https://www.w3.org/TR/css-grid-1/) on the candidate recommendation itself, Grid is the perfect tool for the job:
+During the lead-up to the Fall 2018 elections in the United States, President Trump sent more than 5,000 soldiers to the Mexican border. As he claimed in a tweet on Oct. 29, 2018, this was in response to “an invasion of our Country,” by a caravan of migrants that was: 1) largely composed of families with children, who 2) had announced their intention peacefully to request asylum at the border, and 3) at the time, were still well over 1,000 miles away from the border. This transparently manufactured crisis nonetheless resulted in a marked increase of Republican voters who identified immigration as the most important problem facing the United States. A similar caravan in the Spring of 2018, while also receiving attention from President Trump, did not have the same impact, nor have subsequent caravans. In a working paper with students from [STAIR lab](stair.wm.edu), we argue that the difference in impact is due to the successful securitization of the migrant caravan in the Fall of 2018, as evidenced in shifts in Twitter discussions of the caravan. Moreover, we show that the securitization was a short-term, electoral strategy: it was not connected to longer-term policy initiatives or proposals on the part of the Trump administration, and the administration’s emphasis on the security-related aspects of the caravan dropped off noticeably after the election.
 
-> ##### CSS Grid Layout Module
->
-> This CSS module defines a two-dimensional grid-based layout system, optimized for user interface design. In the grid layout model, the children of a grid container can be positioned into arbitrary slots in a predefined flexible or fixed-size layout grid.
->
-> — _W3C_
 
-CSS Grid is a total game changer, IMHO. Compared to the bottomless pit of despair that is the old way, the new way of building a site structure can be done in as little as 5 lines of CSS. Of course, it always takes more than that, but not much. I mean this is really the meat of the deal:
 
-```css
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(3, auto);
-}
-```
 
-#### What an amazing time to be a web developer. Anyway, I hope you enjoy this "feature" that you'll probably never notice or even see. Maybe that's the best part of a good user interface – the hidden stuff that just works.
-
-[^1]: The original article cited here is now updated and maintained by the staff over at CSS-Tricks. Bookmark their version if you want to dive in and learn about CSS Grid: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
