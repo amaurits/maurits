@@ -1,136 +1,24 @@
 ---
 date: "2021-01-02"
-excerpt: In this block, we'll use the postcards package to make a single 'about' home
-  page with only R Markdown.
+draft: false
+excerpt: Not used.
+layout: single-series
 subtitle: The political uses of cartoons and caricatures, in theory and practice
 title: Politics and Propaganda in Cartoons
 weight: 2
 ---
 
-## Pre-requisites
+## Overview
 
-First, make sure you have the latest version of the postcards package installed from CRAN:
+_(from the introductory section of the syllabus)_
 
-```
-install.packages("postcards")
-```
+This seminar investigates the political and propaganda uses of cartoons and caricatures. We will look at animated propaganda as well as editorial cartoons. The power of images, animated or printed, to shape or challenge an audience's beliefs has long been recognized. Not only is a picture worth a thousand words; the impact of cartoons may exceed that of photo or film because it is often easier in this medium to get a message across through caricature and humor.
 
-Restart your R session. If you use RStudio, use the menu item *Session > Restart R* or the associated keyboard shortcut:
+It comes as no surprise, then, that cartoons have been used for political purposes for several centuries. One of the earliest political cartoons known was Benjamin Franklin's classic "Join or Die", which illustrated the importance of a union among the British colonies in North America by depicting a snake cut into pieces labeled with the names of the individual colonies. Thomas Nast's powerful attacks on the Tammany Hall political machine in New York City a century later are similarly famous. New technologies introduced in the twentieth century made animation possible, and it took little or no time for this medium to be used for political propaganda too, for example by the Soviet Union in the 1920s.
 
-+ <kbd>Ctrl + Shift + F10</kbd> (Windows and Linux) or
-+ <kbd>Command + Shift + F10<kbd> (Mac OS). 
+The seminar is divided into three parts. First, we will study the development of political cartooning in the 19th and first half of the 20th centuries. We will focus in particular on changes over time in the style and content of cartoons, comparing early cartoons to contemporary takes on similar topics. What explains, for example, the striking differences between a Ted Rall cartoon today and one by Thomas Nast from more than a century ago? Next we will watch a number of animated cartoons created during World War II and the Cold War, by both sides in each conflict, to get a sense of the ways animation can be put to political use. We will also look at some present-day animations, such as those by JibJab. Finally, we will look more closely at modern-day sensitivities regarding editorial cartoons. Which areas are taboo for editorial cartoonists? Which cartoons generate the largest volumes of hate mail, and why? In our final session, we will discuss the future of editorial cartoons and political animation — are editorial cartoons in newspapers a dying format, as some have argued?
 
-```
-packageVersion("postcards")
-[1] ‘0.2.0’
-```
+## Syllabus
 
-## Create GitHub repo
+It's been a long time since I last offered this course (Spring 2009, syllabus [here](FR1010_Cartoons_Spring_2009_van_der_Veen.pdf)). However, I have recently been thinking of dusting it off and updating it.
 
-Online.
-
-## Clone GitHub repo
-
-```
-usethis::create_from_github("https://github.com/apreshill/global-postcard.git")
-```
-
-:sparkles: Commit & Push! :sparkles:
-
-You should be committing these files:
-
-+ `*.Rproj`
-
-+ `.gitignore`
-
-## Create a postcard {#templates}
-
-Inside your current postcards project, use the R console:
-
-```
-library(postcards)
-```
-
-Then you could run (wait- don't do this yet!):
-
-```
-create_postcard()
-```
-
-But you could also pick one of four templates:
-
-1. `"jolla"` (<https://seankross.com/postcards-templates/jolla/>) [the default]
-
-1. `"jolla-blue"` (<https://seankross.com/postcards-templates/jolla-blue/>)
-
-1. `"trestles"` (<https://seankross.com/postcards-templates/trestles/>)
-
-1. `"onofre"` (<https://seankross.com/postcards-templates/onofre/>)
-
-```
-create_postcard(template = "jolla") #default
-create_postcard(template = "jolla-blue")
-create_postcard(template = "trestles")
-create_postcard(template = "onofre")
-```
-
-<aside>
-Want to know more? Under the hood, these are R Markdown templates, which you can include in a package.
-</aside>
-
-## Anatomy of a postcard
-
-YAML, body, name is index- this is special
-
-:sparkles: Commit & Push! :sparkles:
-
-You should be committing these files:
-
-+ `index.Rmd`
-
-+ `*.jpg`
-
-But! There is no `.html` file (yet...)
-
-
-## Knit the postcard
-
-Knit button or
-
-```
-rmarkdown::render("index.Rmd")
-```
-
-What is new in your Git pane?
-
-:sparkles: Commit & Push! :sparkles:
-
-You should be committing this files:
-
-+ `index.html`
-
-(You may get a warning in RStudio IDE that this file is too big- go right ahead)
-
-## Publish a postcard
-
-Easy: 
-
-+ Push, publish to GitHub pages
-https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site
-
-Medium:
-
-```
-> use_github_pages(branch = "main", path = "/")
-✓ Setting active project to '/Users/alison/rscratch/global-postcard'
-✓ Activating GitHub Pages for 'apreshill/global-postcard'
-✓ GitHub Pages is publishing from:
-● URL: 'https://apreshill.github.io/global-postcard/'
-● Branch: 'main'
-● Path: '/'
-```
-
-## Share your postcard!
-
-Add it to your repository details
-  

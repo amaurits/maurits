@@ -18,16 +18,16 @@ title: Darwinian evolution in politics and society
 weight: 1
 ---
 
-## Profile
+## Overview
 
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+_(from the introductory section of the 2016 syllabus)_
 
-## Pin projects to profile
+Darwin’s theory of evolution by natural selection has had an enormous impact in the biological sciences, but also in the wider world. The reverberations of the publication of On the Origin of Species can still be felt more than 150 years later. We will examine responses to evolution by natural selection within biology, the social sciences, and among the public at large. We will focus on works by the original authors, rather than later summaries or analyses, so we can get a better feeling for contemporary reactions to Darwin, as well as insight into the way scholars in other disciplines have been inspired by Darwin’s theories.
 
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+In particular, we will review the scientific building blocks of Darwin’s theory and the modern evolutionary synthesis. We will then consider the impact of these theoretical insights on nineteenth-century social science (social Darwinism, eugenics, etc.), Darwinian influences on present-day political science, economics, sociology and psychology, and of course the 150-year old struggle between Darwinism and creationism.
 
-## Profile README
+As we shall see, the elegance and simplicity of Darwin’s theory has inspired many theoretical innovations in unrelated disciplines, some with immense social impact. To give just two examples: the notion of “survival of the fittest” was used an argument for empire-building in the nineteenth century, and social Darwinism has often been used as an argument against caring for society’s poor. We cannot fully understand the successes and failures of such ideas without explicitly examining their connection to Darwin’s theory and its status within the biological sciences.
 
-This is new! Let's do it:
+## Syllabus
 
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
+This is a COLL 150 first-year seminar, co-taught with William & Mary Biology professor [Helen Murphy](https://www.helenmurphy.net/), who is an expert on Evolution. A recent syllabus is available [here](GOV150_Evolution_Spring_2016_Murphy_van_der_Veen.pdf).
