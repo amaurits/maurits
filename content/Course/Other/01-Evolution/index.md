@@ -1,18 +1,8 @@
 ---
 date: "2021-01-01"
 draft: false
-excerpt: You can share information about yourself with the community on GitHub by
-  creating a profile README. GitHub shows your profile README at the top of your profile
-  page.
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+excerpt: Not used.
+layout: single-series
 subtitle: The diffusion and impact of the theory of evolution across society
 title: Darwinian evolution in politics and society
 weight: 1
