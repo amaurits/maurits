@@ -9,7 +9,9 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /blog/
-description: "This page lists news items and notes related to my work other than publications (which are on the Publications page)."
+description: "This page lists news items and notes related to my work other than publications (which are on the Publications page).\n\n
+
+<sub>_Illustration: André Golven (ERP 1950)_</sub>"
 layout: list-sidebar
 show_author_byline: false
 show_button_links: false
