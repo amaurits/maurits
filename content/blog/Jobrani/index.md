@@ -7,7 +7,7 @@ categories:
 - podcast
 date: "2022-01-10"
 draft: false
-excerpt: "_Covering Muslims_ opens with a joke by the very funny comedian Maz Jobrani, about the negativity of Muslim media coverage. Jobrani and and his co-host Tehran interviewed myself and Erik Bleich for their podcast, Back to School with Maz Jobrani.""
+excerpt: "_Covering Muslims_ opens with a joke by the very funny comedian Maz Jobrani, about the negativity of Muslim media coverage. Jobrani and and his co-host Tehran interviewed myself and Erik Bleich for their podcast, Back to School with Maz Jobrani."
 layout: single
 subtitle: A podcast about the media's coverage of Muslims
 title: Back to School with Maz Jobrani
