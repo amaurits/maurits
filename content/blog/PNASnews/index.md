@@ -11,7 +11,7 @@ excerpt: "The William & Mary news team published a story about my recent publica
 about how inequality is framed."
 layout: single
 subtitle: W&M professor co-authors study on how inequality is framed
-title: Framing inequality: Advantage vs. disadvantage 
+title: "Framing inequality: Advantage vs. disadvantage"
 ---
 
 All social inequalities, by definition, involve one group that has more and another that has less, but do people tend to describe inequalities in terms of advantage or disadvantage? 
