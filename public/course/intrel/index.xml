@@ -13,7 +13,8 @@
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maurits-vanderveen.netlify.app/course/intrel/01-introir/</guid>
-      <description>Subheader     plus info on when most recently offered</description>
+      <description>Overview     This course presents an introductory survey of international relations theory and practice. It is assumed that you have a basic exposure to world affairs, and that you keep up with current events by following the international news. The course builds on this basic background by presenting in much more detail the theories and concepts that help us analyze international relations.
+One way to think about the study of international relations is to see it as examining the following question: “How do states manage their exposure to the rest of the world in such a way as to make themselves both safer and better off?</description>
     </item>
     
     <item>
@@ -22,11 +23,8 @@
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maurits-vanderveen.netlify.app/course/intrel/02-irtheory/</guid>
-      <description>intro blurb
-Pre-requisites     syllabus
-install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.
-Clone GitHub repo     usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-blogdown.git&amp;quot;) ✨ Commit &amp;amp; Push!</description>
+      <description>Overview     What is international relations, and how do we theorize about it? Most introductions to international relations concentrate on relations between states, and motivate our theoretical frameworks by appealing to universal characteristics of people, states and the way they interact.
+However, both the notion that international relations is primarily about states and the idea that states have characteristics that are universal (both over time and across space) are simply, undeniably wrong.</description>
     </item>
     
     <item>
@@ -35,9 +33,7 @@ Clone GitHub repo     usethis::create_from_github(&amp;quot;https://github.com/a
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maurits-vanderveen.netlify.app/course/intrel/03-ipe/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/Course/IntRel/03-IPE/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: Course  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+      <description>Overview     This course analyzes the politics of international economic relations, investigating the roots and evolution of the global political economy we live with today, and focusing in particular on the rise and implications of global economic governance and globalization. We aim to answer questions such as “Why do governments adopt particular international economic policies?”, “Why do states often have trouble cooperating economically?”, “When are governments likely to promote or oppose globalization?</description>
     </item>
     
     <item>
@@ -46,7 +42,7 @@ My content section is: Course  My layout is: single-series   part 2!     does th
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maurits-vanderveen.netlify.app/course/intrel/04-ircrossdisc/</guid>
-      <description> part 2!     does this work?      now for some very cool things     more     get ready!     </description>
+      <description>Overview     Students enrolled in this course have taken classes in history, economics, sociology, and political science that introduce the basic theories, methods, and epistemologies of these disciplines. These introductory courses rarely explore the relevance of disciplinary perspectives to important questions in international relations. This course, therefore, has three main goals. It seeks to give students: (1) a better understanding of the similarities and differences in how historians, economists, sociologists, and political scientists approach the study of international relations; (2) an appreciation for the analytical benefits and limitations of integrating the four perspectives; and (3) the tools to decide how they want to focus their coursework and research going forward.</description>
     </item>
     
   </channel>

@@ -13,21 +13,18 @@
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maurits-vanderveen.netlify.app/course/compir/01-eu/</guid>
-      <description>Profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
-Pin projects to profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
-Profile README     This is new! Let&amp;rsquo;s do it:
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+      <description>Overview     (from the introductory section of the 2020 syllabus)
+The 2016 Brexit referendum in the United Kingdom highlighted many of questions still confounding observers of European integration even after more than 60 years of development. Does disaster threaten the EU from all sides, while a glorious future awaits those who abandon ship? Or does does leaving the EU doom a country to a painful economic and political hangover?</description>
     </item>
     
     <item>
       <title>Human Rights and Humanitarianism</title>
       <link>https://maurits-vanderveen.netlify.app/course/compir/02-hr/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maurits-vanderveen.netlify.app/course/compir/02-hr/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
-install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
+      <description>Overview     (from the introductory section of the 2019 syllabus)
+What are human rights, where do they come from, and why do/should they matter? Recent events around the world underscore the importance of grappling with such questions, as they relate to a wide range of issues, from the ongoing Syrian crisis (What rights do/should refugees have? How do/should we respond to crimes against humanity committed by a government?</description>
     </item>
     
   </channel>

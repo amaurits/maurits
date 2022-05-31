@@ -68,17 +68,17 @@
   </url>
   
   <url>
-    <loc>https://maurits-vanderveen.netlify.app/course/compir/02-hr/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://maurits-vanderveen.netlify.app/course/other/02-cartooning/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://maurits-vanderveen.netlify.app/course/datasci/02-visualization/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/course/compir/02-hr/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -100,11 +100,6 @@
   <url>
     <loc>https://maurits-vanderveen.netlify.app/collection/day02/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/meta-series/03-pagetypes/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -134,7 +129,82 @@
   
   <url>
     <loc>https://maurits-vanderveen.netlify.app/categories/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/pnas/</loc>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/inequality-race-gender-wealth/</loc>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/</loc>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/</loc>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/media-coverage/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/muslims/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/sentiment-analysis/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/bjwa/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/blog/jobrani/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/media/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/blog/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/podcast/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/video/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/book-contents/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/blog/page99/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -149,11 +219,6 @@
   
   <url>
     <loc>https://maurits-vanderveen.netlify.app/tags/hugo-site/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maurits-vanderveen.netlify.app/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -189,16 +254,6 @@
   
   <url>
     <loc>https://maurits-vanderveen.netlify.app/categories/markdown/</loc>
-    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/</loc>
-    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maurits-vanderveen.netlify.app/publication/</loc>
     <lastmod>2021-12-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -248,22 +303,12 @@
   </url>
   
   <url>
-    <loc>https://maurits-vanderveen.netlify.app/categories/media-coverage/</loc>
-    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://maurits-vanderveen.netlify.app/categories/religious-minorities/</loc>
     <lastmod>2021-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://maurits-vanderveen.netlify.app/categories/research-project/</loc>
-    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maurits-vanderveen.netlify.app/categories/sentiment-analysis/</loc>
     <lastmod>2021-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -278,12 +323,37 @@
   </url>
   
   <url>
+    <loc>https://maurits-vanderveen.netlify.app/tags/migration/</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/categories/project/</loc>
     <lastmod>2021-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://maurits-vanderveen.netlify.app/tags/refugees/</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/categories/code-development/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/dynamic-charts/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/software/dynamicmaps/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/gis/</loc>
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -318,33 +388,43 @@
   </url>
   
   <url>
+    <loc>https://maurits-vanderveen.netlify.app/software/wmtranslation/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/annual2020/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/minorities/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/ethnic-minorities/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/latinx/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/united-states/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maurits-vanderveen.netlify.app/publication/atheists/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/social/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maurits-vanderveen.netlify.app/categories/theme-features/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maurits-vanderveen.netlify.app/tags/style/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/color-themes/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/fonts/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <loc>https://maurits-vanderveen.netlify.app/publication/mediamuslimsus/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -355,16 +435,6 @@
   <url>
     <loc>https://maurits-vanderveen.netlify.app/course/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maurits-vanderveen.netlify.app/categories/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -383,11 +453,6 @@
   </url>
   
   <url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/seedling/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://maurits-vanderveen.netlify.app/talk/second-seedling/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url>
@@ -398,8 +463,13 @@
   </url>
   
   <url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/rmarkdown/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+    <loc>https://maurits-vanderveen.netlify.app/categories/africa/</loc>
+    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/africa/</loc>
+    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -428,8 +498,8 @@
   </url>
   
   <url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/css-grid-scaffold/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <loc>https://maurits-vanderveen.netlify.app/categories/theme-features/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -439,11 +509,6 @@
   
   <url>
     <loc>https://maurits-vanderveen.netlify.app/project/bakeoff/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maurits-vanderveen.netlify.app/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -460,6 +525,46 @@
   <url>
     <loc>https://maurits-vanderveen.netlify.app/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/devotion/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/religious-devotion/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/euprefs/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/public-opinion/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/surveys/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/deepening/</loc>
+    <lastmod>2014-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/enlargement/</loc>
+    <lastmod>2014-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/publication/euenlargementdeepening/</loc>
+    <lastmod>2014-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -480,6 +585,10 @@
   <url>
     <loc>https://maurits-vanderveen.netlify.app/categories/legislative-debates/</loc>
     <lastmod>2011-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maurits-vanderveen.netlify.app/categories/9/11/</loc>
   </url>
   
   <url>

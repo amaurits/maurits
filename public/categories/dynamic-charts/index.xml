@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dynamic charts on Maurits van der Veen</title>
+    <link>https://maurits-vanderveen.netlify.app/categories/dynamic-charts/</link>
+    <description>Recent content in dynamic charts on Maurits van der Veen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/categories/dynamic-charts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamic maps using pandas</title>
+      <link>https://maurits-vanderveen.netlify.app/software/dynamicmaps/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/software/dynamicmaps/</guid>
+      <description>=&amp;gt; To do: describe mapping in more detail, and provide link to GitHub page with pandas-alive fork.</description>
+    </item>
+    
+  </channel>
+</rss>

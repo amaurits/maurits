@@ -8,12 +8,12 @@
     <language>en</language>
     <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/categories/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Systematic text analysis - emotions and judgments</title>
+      <title>Systematic text analysis - language, emotions and judgments</title>
       <link>https://maurits-vanderveen.netlify.app/research/text-analysis/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maurits-vanderveen.netlify.app/research/text-analysis/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+      <description>Software and lexica for automated text analysis     All of the ongoing research projects require an ability to analyze texts: media (both traditional and social), legislative and political debates, party platforms, etc. In particular, I am interested in improving our ability to extract information about the ways an issue is framed from texts, including the emotional and/or moral dimensions of those frames, and across multiple languages.</description>
     </item>
     
   </channel>

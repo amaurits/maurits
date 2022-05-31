@@ -13,10 +13,8 @@
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maurits-vanderveen.netlify.app/course/other/01-evolution/</guid>
-      <description>Profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
-Pin projects to profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
-Profile README     This is new! Let&amp;rsquo;s do it:
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+      <description>Overview     (from the introductory section of the 2016 syllabus)
+Darwin’s theory of evolution by natural selection has had an enormous impact in the biological sciences, but also in the wider world. The reverberations of the publication of On the Origin of Species can still be felt more than 150 years later. We will examine responses to evolution by natural selection within biology, the social sciences, and among the public at large.</description>
     </item>
     
     <item>
@@ -25,9 +23,8 @@ https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/ma
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maurits-vanderveen.netlify.app/course/other/02-cartooning/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
-install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
+      <description>Overview     (from the introductory section of the syllabus)
+This seminar investigates the political and propaganda uses of cartoons and caricatures. We will look at animated propaganda as well as editorial cartoons. The power of images, animated or printed, to shape or challenge an audience&amp;rsquo;s beliefs has long been recognized. Not only is a picture worth a thousand words; the impact of cartoons may exceed that of photo or film because it is often easier in this medium to get a message across through caricature and humor.</description>
     </item>
     
   </channel>

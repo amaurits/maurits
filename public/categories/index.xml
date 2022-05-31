@@ -6,7 +6,79 @@
     <description>Recent content in Categories on Maurits van der Veen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>inequality, race, gender, wealth</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/inequality-race-gender-wealth/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/inequality-race-gender-wealth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>media coverage</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/media-coverage/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/media-coverage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muslims</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/muslims/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/muslims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentiment analysis</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/sentiment-analysis/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>media</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/media/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/podcast/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/video/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book contents</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/book-contents/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/book-contents/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>European integration</title>
       <link>https://maurits-vanderveen.netlify.app/categories/european-integration/</link>
@@ -89,15 +161,6 @@
     </item>
     
     <item>
-      <title>media coverage</title>
-      <link>https://maurits-vanderveen.netlify.app/categories/media-coverage/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://maurits-vanderveen.netlify.app/categories/media-coverage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>religious minorities</title>
       <link>https://maurits-vanderveen.netlify.app/categories/religious-minorities/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
@@ -112,15 +175,6 @@
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maurits-vanderveen.netlify.app/categories/research-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sentiment analysis</title>
-      <link>https://maurits-vanderveen.netlify.app/categories/sentiment-analysis/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://maurits-vanderveen.netlify.app/categories/sentiment-analysis/</guid>
       <description></description>
     </item>
     
@@ -152,6 +206,24 @@
     </item>
     
     <item>
+      <title>dynamic charts</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/dynamic-charts/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/dynamic-charts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gis</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/gis/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/gis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NLP</title>
       <link>https://maurits-vanderveen.netlify.app/categories/nlp/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
@@ -179,20 +251,29 @@
     </item>
     
     <item>
-      <title>Theme Features</title>
-      <link>https://maurits-vanderveen.netlify.app/categories/theme-features/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <title>minorities</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/minorities/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maurits-vanderveen.netlify.app/categories/theme-features/</guid>
+      <guid>https://maurits-vanderveen.netlify.app/categories/minorities/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>evergreen</title>
-      <link>https://maurits-vanderveen.netlify.app/categories/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <title>ethnic minorities</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/ethnic-minorities/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maurits-vanderveen.netlify.app/categories/evergreen/</guid>
+      <guid>https://maurits-vanderveen.netlify.app/categories/ethnic-minorities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>United States</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/united-states/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/united-states/</guid>
       <description></description>
     </item>
     
@@ -215,6 +296,15 @@
     </item>
     
     <item>
+      <title>Africa</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/africa/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/africa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>package</title>
       <link>https://maurits-vanderveen.netlify.app/categories/package/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
@@ -229,6 +319,60 @@
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://maurits-vanderveen.netlify.app/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme Features</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/theme-features/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/theme-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>religious devotion</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/religious-devotion/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/religious-devotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public opinion</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/public-opinion/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/public-opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>surveys</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/surveys/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/surveys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deepening</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/deepening/</link>
+      <pubDate>Mon, 28 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/deepening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enlargement</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/enlargement/</link>
+      <pubDate>Mon, 28 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/enlargement/</guid>
       <description></description>
     </item>
     
@@ -256,6 +400,15 @@
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>https://maurits-vanderveen.netlify.app/categories/legislative-debates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>9/11</title>
+      <link>https://maurits-vanderveen.netlify.app/categories/9/11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/categories/9/11/</guid>
       <description></description>
     </item>
     

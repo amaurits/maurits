@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>book contents on Maurits van der Veen</title>
+    <link>https://maurits-vanderveen.netlify.app/categories/book-contents/</link>
+    <description>Recent content in book contents on Maurits van der Veen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/categories/book-contents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The page 99 test</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/page99/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/page99/</guid>
+      <description>Marshal Zeringue (@zeringuemarshal) maintains a blog in which he asks authors of books to take Ford Madox Ford&amp;rsquo;s &amp;ldquo;page 99 test&amp;rdquo; and write about the results. Covering Muslims was featured on December 22.
+Here is page 99 from Covering Muslims:
+Surprisingly, it is a page wholely dedicated to a figure displaying trends over time in the number of articles published mentioning Muslims in four different countries. To read our page 99 test story, click on the image below.</description>
+    </item>
+    
+  </channel>
+</rss>

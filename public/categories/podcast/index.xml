@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcast on Maurits van der Veen</title>
+    <link>https://maurits-vanderveen.netlify.app/categories/podcast/</link>
+    <description>Recent content in podcast on Maurits van der Veen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/categories/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back to School with Maz Jobrani</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/jobrani/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/jobrani/</guid>
+      <description>In his Axis of Evil Comedy tour, Maz Jobrani tells a joke that nicely encapsulates a central problem with American media coverage of Muslims. We use it as an epigraph for the first chapter of our book Covering Muslims. You can watch Maz deliver it here (it starts around 1:25).
+We were thrilled to talk about the book with Jobrani and his cohost Tehran for an episode of the podcast &amp;ldquo;Back to School with Maz Jobrani&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
