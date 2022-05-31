@@ -23,7 +23,7 @@ To mark the publication of the findings in the _Proceedings of the National Acad
 Click below to read the story 
 
 <center>
-<a href=https://podcasts.apple.com/us/podcast/western-media-and-its-negative-depiction-of/id1459194552?i=1000547541116><img src=PNASstory featured.jpg></a>
+<a href=https://www.wm.edu/news/stories/2022/advantage-vs.-disadvantage-wm-professor-co-authors-study-on-how-inequality-is-framed.php><img src=PNASstory featured.png></a>
 </center>"
 
-Click [here]('publication/pnas/') to jump to additional information about the publication.
+Click [here]('/publication/pnas/') to jump to additional information about the publication.
