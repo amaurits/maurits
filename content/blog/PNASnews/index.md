@@ -11,7 +11,7 @@ excerpt: "The William & Mary news team published a story about my recent publica
 about how inequality is framed."
 layout: single
 subtitle: W&M professor co-authors study on how inequality is framed
-title: Advantage vs. disadvantage 
+title: Framing inequality: Advantage vs. disadvantage 
 ---
 
 All social inequalities, by definition, involve one group that has more and another that has less, but do people tend to describe inequalities in terms of advantage or disadvantage? 
@@ -23,7 +23,7 @@ To mark the publication of the findings in the _Proceedings of the National Acad
 Click below to read the story 
 
 <center>
-<a href=https://www.wm.edu/news/stories/2022/advantage-vs.-disadvantage-wm-professor-co-authors-study-on-how-inequality-is-framed.php><img src=PNASstory featured.png></a>
+<a href=https://www.wm.edu/news/stories/2022/advantage-vs.-disadvantage-wm-professor-co-authors-study-on-how-inequality-is-framed.php><img src="PNASstory featured.png"></a>
 </center>"
 
-Click [here]('/publication/pnas/') to jump to additional information about the publication.
+Click [here]('../../publication/pnas/') to jump to additional information about the publication.
