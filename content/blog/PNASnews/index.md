@@ -26,4 +26,4 @@ Click below to read the story
 <a href=https://www.wm.edu/news/stories/2022/advantage-vs.-disadvantage-wm-professor-co-authors-study-on-how-inequality-is-framed.php><img src="PNASstory featured.png"></a>
 </center>"
 
-Click [here]('../../publication/pnas/') to jump to additional information about the publication.
+Click [here]('https://www.maurits.net/publication/pnas/') to jump to additional information about the publication.
