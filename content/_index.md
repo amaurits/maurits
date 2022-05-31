@@ -15,8 +15,6 @@ description: |
   
   I am also a serious runner, and used to race marathons regularly (that's me on the left).
   
-  __Note: this website is under construction through the end of February 2022. Apologies for broken links or strange text!__
-
 text_align_left: true
 image_left: false
 images:
