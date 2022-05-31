@@ -20,10 +20,9 @@ I was part of a team investigating this question Using multiple methods and rese
 
 To mark the publication of the findings in the _Proceedings of the National Academy of Sciences_, the William & Mary news team published a story about the research. 
 
-Click below to read the story 
+Click [here]('/publication/pnas/') to jump to additional information about the publication, and click on the image below to read the story.
 
 <center>
 <a href=https://www.wm.edu/news/stories/2022/advantage-vs.-disadvantage-wm-professor-co-authors-study-on-how-inequality-is-framed.php><img src="PNASstory featured.png"></a>
 </center>"
 
-Click [here]('https://www.maurits.net/publication/pnas/') to jump to additional information about the publication.
