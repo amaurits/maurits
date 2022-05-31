@@ -18,7 +18,7 @@ All social inequalities, by definition, involve one group that has more and anot
 
 I was part of a team investigating this question Using multiple methods and research contexts. We found that journalists and laypersons frequently describe racial and gender inequalities in terms of ethnic minority and female disadvantage, respectively, as opposed to white and male advantage. 
 
-To mark the publication of the findings in the _Proceedings of the National Academy of Sciences_, the William & Mary news team published a story about the research. 
+To mark the publication of the findings in the _Proceedings of the National Academy of Sciences_, the William & Mary news team published a story about the research.
 
 Click [here]('/publication/pnas/') to jump to additional information about the publication, and click on the image below to read the story.
 
