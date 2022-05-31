@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>migration on Maurits van der Veen</title>
+    <link>https://maurits-vanderveen.netlify.app/tags/migration/</link>
+    <description>Recent content in migration on Maurits van der Veen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/tags/migration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Framing migrants and refugees</title>
+      <link>https://maurits-vanderveen.netlify.app/research/refugees/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/research/refugees/</guid>
+      <description>Migrants and refugees in the public discourse     Migration is a thorny political issue almost everywhere. How are public opinion and policy choices affected by the way people think about migrants? My research looks at whether migrants are thought of differently from refugees or victims of cross-border human trafficking; how the nation of origin of migrants affects attitudes, and how competing perceptions of migrants affect both national policy and international diplomacy (especially within Europe) regarding migrants.</description>
+    </item>
+    
+  </channel>
+</rss>
