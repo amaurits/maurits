@@ -13,9 +13,9 @@ links:
 - icon: github
   icon_pack: fab
   name: "Github repository"
-  url: https://github.com/amaurits/WMtranslation
+  url: https://github.com/amaurits/pandas_alive
 subtitle: An extension to the pandas-alive software
 title: Dynamic maps using pandas
 ---
 
-=> To do: describe mapping in more detail, and provide link to GitHub page with pandas-alive fork.
+The Github link is to the forked repository of pandas_alive. For the sample notebook, please contact me directly. 
