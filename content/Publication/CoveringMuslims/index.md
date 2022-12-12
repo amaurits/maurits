@@ -14,6 +14,10 @@ excerpt: We present the first systematic, large-scale analysis of American newsp
 featured: true
 layout: single
 links:
+- icon: book-open-cover
+  icon_pack: fas
+  name: "book website"
+  url: https://www.coveringmuslims.com/
 - icon: door-open
   icon_pack: fas
   name: "publisher website"
