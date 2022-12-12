@@ -16,7 +16,7 @@ layout: single
 links:
 - icon: book
   icon_pack: fas
-  name: "book website"
+  name: "books website"
   url: https://www.coveringmuslims.com/
 - icon: door-open
   icon_pack: fas
