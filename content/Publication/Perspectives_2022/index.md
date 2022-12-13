@@ -3,12 +3,11 @@ author: A. Maurits van der Veen & Erik Bleich
 categories:
 - Muslims
 - media coverage
-- sentiment analysis
-- 9/11
+- public opinion
 pubtype: "Publications (other)"
 date: "2022-12-10"
 draft: false
-excerpt: "A back and forth review-and-response ('Critical Dialogue') between Erik Bleich and myself, as authors of _Covering Muslims_, and Elisabeth Ivarsflaten and Paul M. Sniderman, authors of _The Struggle for Inclusion: Muslim Minorities and the Democratic Ethos_. As we write in response to their review, "Juxtaposing the findings of our two books leads to a host of compelling research questions. We look forward to further research that enriches our understanding of the interactions between media coverage and public attitudes toward Muslims and other marginalized groups."
+excerpt: "A back and forth review-and-response ('Critical Dialogue') between Erik Bleich and myself, as authors of _Covering Muslims_, and Elisabeth Ivarsflaten and Paul M. Sniderman, authors of _The Struggle for Inclusion: Muslim Minorities and the Democratic Ethos_. As we write in response to their review, 'Juxtaposing the findings of our two books leads to a host of compelling research questions. We look forward to further research that enriches our understanding of the interactions between media coverage and public attitudes toward Muslims and other marginalized groups.'"
 layout: single
 links:
 - icon: door-open
