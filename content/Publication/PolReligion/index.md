@@ -12,7 +12,7 @@ links:
   icon_pack: fas
   name: "journal website"
   url: https://www.cambridge.org/core/journals/politics-and-religion
-location: Politics and Religion, forthcoming.
+location: Politics and Religion
 show_post_time: false
 subtitle: Evidence from an Online Experiment
 title: Assessing the Effect of Media Tone on Attitudes toward Muslims
