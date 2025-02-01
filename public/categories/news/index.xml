@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on Maurits van der Veen</title>
+    <link>https://maurits-vanderveen.netlify.app/categories/news/</link>
+    <description>Recent content in news on Maurits van der Veen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maurits-vanderveen.netlify.app/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Framing inequality: Advantage vs. disadvantage</title>
+      <link>https://maurits-vanderveen.netlify.app/blog/pnasnews/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maurits-vanderveen.netlify.app/blog/pnasnews/</guid>
+      <description>All social inequalities, by definition, involve one group that has more and another that has less, but do people tend to describe inequalities in terms of advantage or disadvantage?
+I was part of a team investigating this question Using multiple methods and research contexts. We found that journalists and laypersons frequently describe racial and gender inequalities in terms of ethnic minority and female disadvantage, respectively, as opposed to white and male advantage.</description>
+    </item>
+    
+  </channel>
+</rss>

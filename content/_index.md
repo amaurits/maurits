@@ -9,11 +9,24 @@ description: |
   
   I am an Associate Professor of [Government](https://www.wm.edu/as/government/index.php) at [William & Mary](https://www.wm.edu/) in Williamsburg, VA. Prior to coming to William & Mary in 2010, I taught at the [University of Georgia](https://spia.uga.edu/departments-centers/department-of-international-affairs/) and the [University of Pennsylvania](https://www.polisci.upenn.edu/). 
   
-  My research investigates the origins and impact of perceptions and beliefs in international relations, with a  focus on beliefs about "others": members of different minorities, (im)migrants, foreigners, etc. As a computational social scientist, I am particularly interested in measuring different aspects of beliefs and attitudes in texts, ranging from legislative debates to newspapers to social media. 
+  My research investigates the origins and impact of perceptions and 
+  beliefs in international relations, with a  focus on beliefs about 
+  "others": members of different minorities, (im)migrants, foreigners, 
+  etc. 
   
-  Current projects include measuring emotions and moral judgments in political debates about migrants, analyzing the spread of cultural ideas across borders, and studying the presence and depth of international solidarity within the European Union.
+  As a computational social scientist, I am particularly interested in 
+  measuring different aspects of beliefs and attitudes in texts, 
+  ranging from legislative debates to newspapers to social media. 
   
-  I am also a serious runner, and used to race marathons regularly (that's me on the left).
+  Current projects include measuring emotions and moral judgments 
+  in political debates about migrants, analyzing the spread of 
+  cultural ideas across borders, studying the presence and depth 
+  of international solidarity within the European Union, and
+  identifying the prevalence of dehumanizing language in the 
+  newspaper coverage of refugees and other groups.
+  
+  I am also a serious runner, and used to race marathons regularly 
+  (that's me on the left).
   
 text_align_left: true
 image_left: false
